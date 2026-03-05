@@ -7,6 +7,7 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "EPUB KFCok",
@@ -25,6 +26,7 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "LnCrawler",
@@ -43,6 +45,7 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "Lnori",
@@ -61,6 +64,7 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "Vynovel",
@@ -79,6 +83,7 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "WuxiaClick",
@@ -97,6 +102,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "AllNovel",
@@ -115,6 +121,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "AllNovelFull",
@@ -133,6 +140,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "Arcane Translations",
@@ -151,6 +159,7 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "AsianNovel",
@@ -169,6 +178,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "BoxNovel",
@@ -187,6 +197,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "Dao Translate",
@@ -205,6 +216,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "Fans MTL",
@@ -223,6 +235,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "Fans Translations",
@@ -241,6 +254,7 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "Fenrirealm",
@@ -259,6 +273,7 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "Fiction Zone",
@@ -277,6 +292,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "Foxaholic",
@@ -295,6 +311,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 1,
+    "isNovel": true,
     "sources": [
       {
         "name": "Foxaholic 18+",
@@ -313,6 +330,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "FreeWebNovel",
@@ -331,6 +349,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "Hiraeth Translation",
@@ -349,6 +368,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "Ippo Translation",
@@ -367,6 +387,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "KDT Novels",
@@ -385,6 +406,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "LibRead",
@@ -403,6 +425,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "LightNovelPlus",
@@ -421,6 +444,7 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "Light Novel Translations",
@@ -439,6 +463,7 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "MtlBooks",
@@ -457,6 +482,7 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "MTL Reader",
@@ -475,6 +501,7 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "MVLEMPYR",
@@ -493,6 +520,7 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "MZ Novels",
@@ -511,6 +539,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "NeoSekai Translations",
@@ -529,6 +558,7 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "Novelable",
@@ -547,6 +577,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "NovelBin",
@@ -565,6 +596,7 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "NovelBuddy",
@@ -583,6 +615,7 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "NovelCool",
@@ -601,6 +634,7 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 1,
+    "isNovel": true,
     "sources": [
       {
         "name": "NovelDex",
@@ -619,6 +653,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "NovelFire",
@@ -637,6 +672,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "NovelFull",
@@ -655,6 +691,7 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "NovelHall",
@@ -673,6 +710,7 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "NovelHub",
@@ -691,6 +729,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "NovelMultiverse",
@@ -709,6 +748,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "Novels Knight",
@@ -727,6 +767,7 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "Novel Updates",
@@ -745,6 +786,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "Panda Machine Translations",
@@ -763,6 +805,7 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "PawRead",
@@ -781,6 +824,7 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "Ranobes",
@@ -799,6 +843,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "Ranovel",
@@ -817,6 +862,7 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "ReadFromNet",
@@ -835,6 +881,7 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "ReadNovelMtl",
@@ -853,6 +900,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "Requiem Translations",
@@ -871,6 +919,7 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "Royal Road",
@@ -889,6 +938,7 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "Scribble Hub",
@@ -907,6 +957,7 @@
     "code": 45,
     "version": "1.4.45",
     "nsfw": 0,
+    "isNovel": false,
     "sources": [
       {
         "name": "SectScans",
@@ -925,6 +976,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "Sonic MTL",
@@ -943,6 +995,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "Srank Manga",
@@ -961,6 +1014,7 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "StorySeedling",
@@ -979,6 +1033,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "System Translation",
@@ -997,6 +1052,7 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "TomatoMTL",
@@ -1015,6 +1071,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "Translatin Otaku",
@@ -1033,6 +1090,7 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
+    "isNovel": false,
     "sources": [
       {
         "name": "Webnovel Comics",
@@ -1058,6 +1116,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "WebNovel Translation",
@@ -1076,6 +1135,7 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "WTR-LAB",
@@ -1094,6 +1154,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "Wuxiabox",
@@ -1112,6 +1173,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": false,
     "sources": [
       {
         "name": "Wuxia Space",
@@ -1130,6 +1192,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "WuxiaWorld.Site",
@@ -1148,6 +1211,7 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
+    "isNovel": true,
     "sources": [
       {
         "name": "Zetro Translations",
