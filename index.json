@@ -48,7 +48,7 @@
         "name": "Lnori",
         "lang": "all",
         "id": "787226943935256051",
-        "baseUrl": "https://lnori.qzz.io",
+        "baseUrl": "https://lnori.com",
         "versionId": 1
       }
     ]
@@ -576,6 +576,42 @@
     ]
   },
   {
+    "name": "Tsundoku: NovelCool",
+    "pkg": "eu.kanade.tachiyomi.extension.en.novelcool",
+    "apk": "tsundoku-en.novelcool-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "NovelCool",
+        "lang": "en",
+        "id": "7570101320206504111",
+        "baseUrl": "https://novelcool.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tsundoku: NovelDex",
+    "pkg": "eu.kanade.tachiyomi.extension.en.noveldex",
+    "apk": "tsundoku-en.noveldex-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "NovelDex",
+        "lang": "en",
+        "id": "7550046916586684998",
+        "baseUrl": "https://noveldex.io",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tsundoku: Novel Fire",
     "pkg": "eu.kanade.tachiyomi.extension.en.novelfire",
     "apk": "tsundoku-en.novelfire-v1.4.2.apk",
@@ -661,24 +697,6 @@
         "lang": "en",
         "id": "7362702157956218287",
         "baseUrl": "https://novelmultiverse.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tsundoku: NovelsHub",
-    "pkg": "eu.kanade.tachiyomi.extension.en.novelshub",
-    "apk": "tsundoku-en.novelshub-v1.4.1.apk",
-    "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "NovelsHub",
-        "lang": "en",
-        "id": "7287878848577420054",
-        "baseUrl": "https://novelshub.org",
         "versionId": 1
       }
     ]
