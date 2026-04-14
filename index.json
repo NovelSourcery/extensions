@@ -1028,10 +1028,10 @@
   {
     "name": "Tsundoku: Novel Fire",
     "pkg": "eu.kanade.tachiyomi.extension.en.novelfire",
-    "apk": "tsundoku-en.novelfire-v1.4.4.apk",
+    "apk": "tsundoku-en.novelfire-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
