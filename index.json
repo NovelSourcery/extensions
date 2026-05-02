@@ -304,6 +304,25 @@
     ]
   },
   {
+    "name": "Tsundoku: Bright Novels",
+    "pkg": "eu.kanade.tachiyomi.extension.en.brightnovels",
+    "apk": "tsundoku-en.brightnovels-v1.4.2.apk",
+    "lang": "en",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 0,
+    "isNovel": true,
+    "sources": [
+      {
+        "name": "Bright Novels",
+        "lang": "en",
+        "id": "5242035633574598251",
+        "baseUrl": "https://brightnovels.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tsundoku: CitrusAurora",
     "pkg": "eu.kanade.tachiyomi.extension.en.citrusaurora",
     "apk": "tsundoku-en.citrusaurora-v1.4.2.apk",
