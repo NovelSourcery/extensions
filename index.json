@@ -703,6 +703,25 @@
     ]
   },
   {
+    "name": "Tsundoku: KuuPress",
+    "pkg": "eu.kanade.tachiyomi.extension.en.kuupress",
+    "apk": "tsundoku-en.kuupress-v1.4.2.apk",
+    "lang": "en",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 0,
+    "isNovel": true,
+    "sources": [
+      {
+        "name": "KuuPress",
+        "lang": "en",
+        "id": "2340162337956285866",
+        "baseUrl": "https://kuupress.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tsundoku: LazyGirlTranslations",
     "pkg": "eu.kanade.tachiyomi.extension.en.lazygirltranslations",
     "apk": "tsundoku-en.lazygirltranslations-v1.4.2.apk",
