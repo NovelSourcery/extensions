@@ -1795,10 +1795,10 @@
   {
     "name": "Tsundoku: Zetro Translation",
     "pkg": "eu.kanade.tachiyomi.extension.en.zetrotranslation",
-    "apk": "tsundoku-en.zetrotranslation-v1.4.2.apk",
+    "apk": "tsundoku-en.zetrotranslation-v1.4.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
