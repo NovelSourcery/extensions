@@ -19,25 +19,6 @@
     ]
   },
   {
-    "name": "Tsundoku: LnCrawler",
-    "pkg": "eu.kanade.tachiyomi.extension.all.lncrawler",
-    "apk": "tsundoku-all.lncrawler-v1.4.1.apk",
-    "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 0,
-    "isNovel": true,
-    "sources": [
-      {
-        "name": "LnCrawler",
-        "lang": "all",
-        "id": "4447100462991951758",
-        "baseUrl": "https://lncrawler.monster",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tsundoku: Lnori",
     "pkg": "eu.kanade.tachiyomi.extension.all.lnori",
     "apk": "tsundoku-all.lnori-v1.4.1.apk",
@@ -812,6 +793,25 @@
         "lang": "en",
         "id": "7254843651096830186",
         "baseUrl": "https://lightnovelstranslations.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tsundoku: LnCrawler",
+    "pkg": "eu.kanade.tachiyomi.extension.en.lncrawler",
+    "apk": "tsundoku-en.lncrawler-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "isNovel": true,
+    "sources": [
+      {
+        "name": "LnCrawler",
+        "lang": "all",
+        "id": "4447100462991951758",
+        "baseUrl": "https://lncrawler.monster",
         "versionId": 1
       }
     ]
