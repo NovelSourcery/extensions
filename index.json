@@ -1028,10 +1028,10 @@
   {
     "name": "Tsundoku: NovelDex",
     "pkg": "eu.kanade.tachiyomi.extension.en.noveldex",
-    "apk": "tsundoku-en.noveldex-v1.4.2.apk",
+    "apk": "tsundoku-en.noveldex-v1.4.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "isNovel": true,
     "sources": [
