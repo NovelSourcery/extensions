@@ -458,10 +458,10 @@
   {
     "name": "Tsundoku: Fans MTL",
     "pkg": "eu.kanade.tachiyomi.extension.en.fansmtl",
-    "apk": "tsundoku-en.fansmtl-v1.4.2.apk",
+    "apk": "tsundoku-en.fansmtl-v1.4.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -1757,10 +1757,10 @@
   {
     "name": "Tsundoku: Wuxiabox",
     "pkg": "eu.kanade.tachiyomi.extension.en.wuxiabox",
-    "apk": "tsundoku-en.wuxiabox-v1.4.2.apk",
+    "apk": "tsundoku-en.wuxiabox-v1.4.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -1776,12 +1776,12 @@
   {
     "name": "Tsundoku: Wuxia Space",
     "pkg": "eu.kanade.tachiyomi.extension.en.wuxiaspace",
-    "apk": "tsundoku-en.wuxiaspace-v1.4.2.apk",
+    "apk": "tsundoku-en.wuxiaspace-v1.4.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
-    "isNovel": false,
+    "isNovel": true,
     "sources": [
       {
         "name": "Wuxia Space",
