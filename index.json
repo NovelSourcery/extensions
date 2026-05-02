@@ -572,10 +572,10 @@
   {
     "name": "Tsundoku: FreeWebNovel",
     "pkg": "eu.kanade.tachiyomi.extension.en.freewebnovel",
-    "apk": "tsundoku-en.freewebnovel-v1.4.3.apk",
+    "apk": "tsundoku-en.freewebnovel-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
