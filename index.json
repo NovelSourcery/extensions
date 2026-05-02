@@ -1180,10 +1180,10 @@
   {
     "name": "Tsundoku: Novel Updates",
     "pkg": "eu.kanade.tachiyomi.extension.en.novelupdates",
-    "apk": "tsundoku-en.novelupdates-v1.4.1.apk",
+    "apk": "tsundoku-en.novelupdates-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
