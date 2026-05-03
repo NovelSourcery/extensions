@@ -1,24 +1,5 @@
 [
   {
-    "name": "Tsundoku: EPUB KFCok",
-    "pkg": "eu.kanade.tachiyomi.extension.all.epubkfcok",
-    "apk": "tsundoku-all.epubkfcok-v1.4.1.apk",
-    "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 0,
-    "isNovel": true,
-    "sources": [
-      {
-        "name": "EPUB KFCok",
-        "lang": "all",
-        "id": "4776466639710929174",
-        "baseUrl": "https://epub.kfcok.net",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tsundoku: Lnori",
     "pkg": "eu.kanade.tachiyomi.extension.all.lnori",
     "apk": "tsundoku-all.lnori-v1.4.1.apk",
@@ -413,6 +394,25 @@
         "lang": "en",
         "id": "4003275232501009537",
         "baseUrl": "https://duskblossoms.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tsundoku: EPUB KFCok",
+    "pkg": "eu.kanade.tachiyomi.extension.en.epubkfcok",
+    "apk": "tsundoku-en.epubkfcok-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "isNovel": true,
+    "sources": [
+      {
+        "name": "EPUB KFCok",
+        "lang": "all",
+        "id": "4776466639710929174",
+        "baseUrl": "https://fucknovelpia.com",
         "versionId": 1
       }
     ]
