@@ -38,25 +38,6 @@
     ]
   },
   {
-    "name": "Tsundoku: WuxiaClick",
-    "pkg": "eu.kanade.tachiyomi.extension.all.wuxiaclick",
-    "apk": "tsundoku-all.wuxiaclick-v1.4.1.apk",
-    "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 0,
-    "isNovel": true,
-    "sources": [
-      {
-        "name": "WuxiaClick",
-        "lang": "all",
-        "id": "4007327599712723254",
-        "baseUrl": "https://wuxia.click",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tsundoku: ArNovel",
     "pkg": "eu.kanade.tachiyomi.extension.ar.arnovel",
     "apk": "tsundoku-ar.arnovel-v1.4.2.apk",
@@ -1788,6 +1769,25 @@
         "lang": "en",
         "id": "476516676913011994",
         "baseUrl": "https://wuxiabox.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tsundoku: WuxiaClick",
+    "pkg": "eu.kanade.tachiyomi.extension.en.wuxiaclick",
+    "apk": "tsundoku-en.wuxiaclick-v1.4.2.apk",
+    "lang": "en",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 0,
+    "isNovel": true,
+    "sources": [
+      {
+        "name": "WuxiaClick",
+        "lang": "all",
+        "id": "4007327599712723254",
+        "baseUrl": "https://wuxia.click",
         "versionId": 1
       }
     ]
