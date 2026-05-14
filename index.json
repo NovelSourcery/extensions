@@ -1,24 +1,5 @@
 [
   {
-    "name": "Tsundoku: Lnori",
-    "pkg": "eu.kanade.tachiyomi.extension.all.lnori",
-    "apk": "tsundoku-all.lnori-v1.4.1.apk",
-    "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 0,
-    "isNovel": true,
-    "sources": [
-      {
-        "name": "Lnori",
-        "lang": "all",
-        "id": "787226943935256051",
-        "baseUrl": "https://lnori.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tsundoku: Vynovel",
     "pkg": "eu.kanade.tachiyomi.extension.all.vynovel",
     "apk": "tsundoku-all.vynovel-v1.4.1.apk",
@@ -812,6 +793,25 @@
         "lang": "all",
         "id": "4447100462991951758",
         "baseUrl": "https://lncrawler.monster",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tsundoku: Lnori",
+    "pkg": "eu.kanade.tachiyomi.extension.en.lnori",
+    "apk": "tsundoku-en.lnori-v1.4.3.apk",
+    "lang": "en",
+    "code": 3,
+    "version": "1.4.3",
+    "nsfw": 0,
+    "isNovel": true,
+    "sources": [
+      {
+        "name": "Lnori",
+        "lang": "all",
+        "id": "787226943935256051",
+        "baseUrl": "https://lnori.com",
         "versionId": 1
       }
     ]
