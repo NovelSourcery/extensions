@@ -1425,25 +1425,6 @@
     ]
   },
   {
-    "name": "Tsundoku: SectScans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.sectscans",
-    "apk": "tsundoku-en.sectscans-v1.4.45.apk",
-    "lang": "en",
-    "code": 45,
-    "version": "1.4.45",
-    "nsfw": 0,
-    "isNovel": false,
-    "sources": [
-      {
-        "name": "SectScans",
-        "lang": "en",
-        "id": "2652802679518332659",
-        "baseUrl": "https://sectscans.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tsundoku: Shanghai Fantasy",
     "pkg": "eu.kanade.tachiyomi.extension.en.shanghaifantasy",
     "apk": "tsundoku-en.shanghaifantasy-v1.4.1.apk",
@@ -1674,20 +1655,13 @@
   {
     "name": "Tsundoku: WebNovel",
     "pkg": "eu.kanade.tachiyomi.extension.en.webnovel",
-    "apk": "tsundoku-en.webnovel-v1.4.2.apk",
+    "apk": "tsundoku-en.webnovel-v1.4.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
-    "isNovel": false,
+    "isNovel": true,
     "sources": [
-      {
-        "name": "Webnovel Comics",
-        "lang": "en",
-        "id": "4081135203808920563",
-        "baseUrl": "https://www.webnovel.com",
-        "versionId": 1
-      },
       {
         "name": "Webnovel Novels",
         "lang": "en",
