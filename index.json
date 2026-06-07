@@ -838,10 +838,10 @@
   {
     "name": "Tsundoku: MtlBooks",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.mtlbooks",
-    "apk": "tsundoku-en.mtlbooks-v1.4.1.apk",
+    "apk": "tsundoku-en.mtlbooks-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
