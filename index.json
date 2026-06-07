@@ -665,6 +665,25 @@
     ]
   },
   {
+    "name": "Tsundoku: Konkon",
+    "pkg": "eu.kanade.tachiyomi.novelextension.en.konkon",
+    "apk": "tsundoku-en.konkon-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "isNovel": true,
+    "sources": [
+      {
+        "name": "Konkon",
+        "lang": "en",
+        "id": "791209408284977250",
+        "baseUrl": "https://konkon.ink",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tsundoku: KuuPress",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.kuupress",
     "apk": "tsundoku-en.kuupress-v1.4.4.apk",
