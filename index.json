@@ -798,6 +798,25 @@
     ]
   },
   {
+    "name": "Tsundoku: Light Novel World",
+    "pkg": "eu.kanade.tachiyomi.novelextension.en.lightnovelworld",
+    "apk": "tsundoku-en.lightnovelworld-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "isNovel": true,
+    "sources": [
+      {
+        "name": "Light Novel World",
+        "lang": "en",
+        "id": "839287918972732590",
+        "baseUrl": "https://lightnovelworld.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tsundoku: LnCrawler",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.lncrawler",
     "apk": "tsundoku-en.lncrawler-v1.4.2.apk",
