@@ -912,6 +912,25 @@
     ]
   },
   {
+    "name": "Tsundoku: MTL Wuxia",
+    "pkg": "eu.kanade.tachiyomi.novelextension.en.mtlwuxia",
+    "apk": "tsundoku-en.mtlwuxia-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "isNovel": true,
+    "sources": [
+      {
+        "name": "MTL Wuxia",
+        "lang": "en",
+        "id": "8996639704004533082",
+        "baseUrl": "https://mtlwuxia.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tsundoku: MVLEMPYR",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.mvlempyr",
     "apk": "tsundoku-en.mvlempyr-v1.4.1.apk",
