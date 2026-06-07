@@ -458,10 +458,10 @@
   {
     "name": "Tsundoku: Fenrirealm",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.fenrirealm",
-    "apk": "tsundoku-en.fenrirealm-v1.4.5.apk",
+    "apk": "tsundoku-en.fenrirealm-v1.4.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -1427,10 +1427,10 @@
   {
     "name": "Tsundoku: Shanghai Fantasy",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.shanghaifantasy",
-    "apk": "tsundoku-en.shanghaifantasy-v1.4.1.apk",
+    "apk": "tsundoku-en.shanghaifantasy-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
