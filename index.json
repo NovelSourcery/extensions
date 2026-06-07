@@ -1123,10 +1123,10 @@
   {
     "name": "Tsundoku: NovelLib",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.novelib",
-    "apk": "tsundoku-en.novelib-v1.4.2.apk",
+    "apk": "tsundoku-en.novelib-v1.4.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -1256,10 +1256,10 @@
   {
     "name": "Tsundoku: PenguinSquad",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.penguinsquad",
-    "apk": "tsundoku-en.penguinsquad-v1.4.2.apk",
+    "apk": "tsundoku-en.penguinsquad-v1.4.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
