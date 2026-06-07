@@ -1178,6 +1178,25 @@
     ]
   },
   {
+    "name": "Tsundoku: NovelLib",
+    "pkg": "eu.kanade.tachiyomi.novelextension.en.novellib",
+    "apk": "tsundoku-en.novellib-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "isNovel": true,
+    "sources": [
+      {
+        "name": "NovelLib",
+        "lang": "en",
+        "id": "2802724355103170010",
+        "baseUrl": "https://www.novellib.online",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tsundoku: NovelMultiverse",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.novelmultiverse",
     "apk": "tsundoku-en.novelmultiverse-v1.4.3.apk",
