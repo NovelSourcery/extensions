@@ -249,10 +249,10 @@
   {
     "name": "Tsundoku: Bright Novels",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.brightnovels",
-    "apk": "tsundoku-en.brightnovels-v1.4.2.apk",
+    "apk": "tsundoku-en.brightnovels-v1.4.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
