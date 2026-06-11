@@ -97,10 +97,10 @@
   {
     "name": "Tsundoku: Markazriwayat",
     "pkg": "eu.kanade.tachiyomi.novelextension.ar.markazriwayat",
-    "apk": "tsundoku-ar.markazriwayat-v1.4.3.apk",
+    "apk": "tsundoku-ar.markazriwayat-v1.4.2.apk",
     "lang": "ar",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
