@@ -1,5 +1,24 @@
 [
   {
+    "name": "Tsundoku: Calibre",
+    "pkg": "eu.kanade.tachiyomi.novelextension.all.calibre",
+    "apk": "tsundoku-all.calibre-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "isNovel": true,
+    "sources": [
+      {
+        "name": "Calibre",
+        "lang": "all",
+        "id": "4559036889793122925",
+        "baseUrl": "",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tsundoku: ArNovel",
     "pkg": "eu.kanade.tachiyomi.novelextension.ar.arnovel",
     "apk": "tsundoku-ar.arnovel-v1.4.3.apk",
