@@ -21,10 +21,10 @@
   {
     "name": "Tsundoku: ArNovel",
     "pkg": "eu.kanade.tachiyomi.novelextension.ar.arnovel",
-    "apk": "tsundoku-ar.arnovel-v1.4.3.apk",
+    "apk": "tsundoku-ar.arnovel-v1.4.4.apk",
     "lang": "ar",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -40,10 +40,10 @@
   {
     "name": "Tsundoku: Azora",
     "pkg": "eu.kanade.tachiyomi.novelextension.ar.azora",
-    "apk": "tsundoku-ar.azora-v1.4.3.apk",
+    "apk": "tsundoku-ar.azora-v1.4.4.apk",
     "lang": "ar",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -78,10 +78,10 @@
   {
     "name": "Tsundoku: HizoManga",
     "pkg": "eu.kanade.tachiyomi.novelextension.ar.hizomanga",
-    "apk": "tsundoku-ar.hizomanga-v1.4.3.apk",
+    "apk": "tsundoku-ar.hizomanga-v1.4.4.apk",
     "lang": "ar",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -154,10 +154,10 @@
   {
     "name": "Tsundoku: Riwyat",
     "pkg": "eu.kanade.tachiyomi.novelextension.ar.riwyat",
-    "apk": "tsundoku-ar.riwyat-v1.4.3.apk",
+    "apk": "tsundoku-ar.riwyat-v1.4.4.apk",
     "lang": "ar",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -230,10 +230,10 @@
   {
     "name": "Tsundoku: BoxNovel",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.boxnovel",
-    "apk": "tsundoku-en.boxnovel-v1.4.4.apk",
+    "apk": "tsundoku-en.boxnovel-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -268,10 +268,10 @@
   {
     "name": "Tsundoku: CitrusAurora",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.citrusaurora",
-    "apk": "tsundoku-en.citrusaurora-v1.4.3.apk",
+    "apk": "tsundoku-en.citrusaurora-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -306,10 +306,10 @@
   {
     "name": "Tsundoku: Dragonholic",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.dragonholic",
-    "apk": "tsundoku-en.dragonholic-v1.4.3.apk",
+    "apk": "tsundoku-en.dragonholic-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -325,10 +325,10 @@
   {
     "name": "Tsundoku: DragonTea",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.dragontea",
-    "apk": "tsundoku-en.dragontea-v1.4.3.apk",
+    "apk": "tsundoku-en.dragontea-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -344,10 +344,10 @@
   {
     "name": "Tsundoku: DuskBlossoms",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.duskblossoms",
-    "apk": "tsundoku-en.duskblossoms-v1.4.3.apk",
+    "apk": "tsundoku-en.duskblossoms-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -382,10 +382,10 @@
   {
     "name": "Tsundoku: Eternalune",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.eternalune",
-    "apk": "tsundoku-en.eternalune-v1.4.3.apk",
+    "apk": "tsundoku-en.eternalune-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -401,10 +401,10 @@
   {
     "name": "Tsundoku: EtudeTranslations",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.etudetranslations",
-    "apk": "tsundoku-en.etudetranslations-v1.4.3.apk",
+    "apk": "tsundoku-en.etudetranslations-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -439,10 +439,10 @@
   {
     "name": "Tsundoku: Fans Translations",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.fanstranslations",
-    "apk": "tsundoku-en.fanstranslations-v1.4.3.apk",
+    "apk": "tsundoku-en.fanstranslations-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -496,10 +496,10 @@
   {
     "name": "Tsundoku: Foxaholic",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.foxaholic",
-    "apk": "tsundoku-en.foxaholic-v1.4.3.apk",
+    "apk": "tsundoku-en.foxaholic-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -515,10 +515,10 @@
   {
     "name": "Tsundoku: Foxaholic 18+",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.foxaholic18",
-    "apk": "tsundoku-en.foxaholic18-v1.4.3.apk",
+    "apk": "tsundoku-en.foxaholic18-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "isNovel": true,
     "sources": [
@@ -553,10 +553,10 @@
   {
     "name": "Tsundoku: Hiraeth Translation",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.hireaththranslation",
-    "apk": "tsundoku-en.hireaththranslation-v1.4.3.apk",
+    "apk": "tsundoku-en.hireaththranslation-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -743,10 +743,10 @@
   {
     "name": "Tsundoku: LightNovelHeaven",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.lightnovelheaven",
-    "apk": "tsundoku-en.lightnovelheaven-v1.4.3.apk",
+    "apk": "tsundoku-en.lightnovelheaven-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -800,10 +800,10 @@
   {
     "name": "Tsundoku: Light Novel World",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.lightnovelworld",
-    "apk": "tsundoku-en.lightnovelworld-v1.4.1.apk",
+    "apk": "tsundoku-en.lightnovelworld-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -857,10 +857,10 @@
   {
     "name": "Tsundoku: LulloBox",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.lullobox",
-    "apk": "tsundoku-en.lullobox-v1.4.3.apk",
+    "apk": "tsundoku-en.lullobox-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -876,10 +876,10 @@
   {
     "name": "Tsundoku: MtlBooks",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.mtlbooks",
-    "apk": "tsundoku-en.mtlbooks-v1.4.3.apk",
+    "apk": "tsundoku-en.mtlbooks-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -971,10 +971,10 @@
   {
     "name": "Tsundoku: NeoSekai Translations",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.neosekai",
-    "apk": "tsundoku-en.neosekai-v1.4.3.apk",
+    "apk": "tsundoku-en.neosekai-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -990,10 +990,10 @@
   {
     "name": "Tsundoku: NoiceTranslations",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.noicetranslations",
-    "apk": "tsundoku-en.noicetranslations-v1.4.3.apk",
+    "apk": "tsundoku-en.noicetranslations-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -1104,10 +1104,10 @@
   {
     "name": "Tsundoku: Novel Fire",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.novelfire",
-    "apk": "tsundoku-en.novelfire-v1.4.6.apk",
+    "apk": "tsundoku-en.novelfire-v1.4.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -1218,10 +1218,10 @@
   {
     "name": "Tsundoku: NovelMultiverse",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.novelmultiverse",
-    "apk": "tsundoku-en.novelmultiverse-v1.4.3.apk",
+    "apk": "tsundoku-en.novelmultiverse-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -1237,10 +1237,10 @@
   {
     "name": "Tsundoku: NovelNinja",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.novelninja",
-    "apk": "tsundoku-en.novelninja-v1.4.3.apk",
+    "apk": "tsundoku-en.novelninja-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -1294,10 +1294,10 @@
   {
     "name": "Tsundoku: PastelTales",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.pasteltales",
-    "apk": "tsundoku-en.pasteltales-v1.4.3.apk",
+    "apk": "tsundoku-en.pasteltales-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -1370,10 +1370,10 @@
   {
     "name": "Tsundoku: Ranovel",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.ranovel",
-    "apk": "tsundoku-en.ranovel-v1.4.3.apk",
+    "apk": "tsundoku-en.ranovel-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -1522,10 +1522,10 @@
   {
     "name": "Tsundoku: SleepyTranslations",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.sleepytranslations",
-    "apk": "tsundoku-en.sleepytranslations-v1.4.3.apk",
+    "apk": "tsundoku-en.sleepytranslations-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -1541,10 +1541,10 @@
   {
     "name": "Tsundoku: Sonic MTL",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.sonicmtl",
-    "apk": "tsundoku-en.sonicmtl-v1.4.3.apk",
+    "apk": "tsundoku-en.sonicmtl-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -1560,10 +1560,10 @@
   {
     "name": "Tsundoku: Srank Manga",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.srankmanga",
-    "apk": "tsundoku-en.srankmanga-v1.4.3.apk",
+    "apk": "tsundoku-en.srankmanga-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -1655,10 +1655,10 @@
   {
     "name": "Tsundoku: Translatin Otaku",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.translatino",
-    "apk": "tsundoku-en.translatino-v1.4.4.apk",
+    "apk": "tsundoku-en.translatino-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -1769,10 +1769,10 @@
   {
     "name": "Tsundoku: WebNovel Translation",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.webnoveltranslation",
-    "apk": "tsundoku-en.webnoveltranslation-v1.4.3.apk",
+    "apk": "tsundoku-en.webnoveltranslation-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -1788,10 +1788,10 @@
   {
     "name": "Tsundoku: WordExcerpt",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.wordexcerpt",
-    "apk": "tsundoku-en.wordexcerpt-v1.4.3.apk",
+    "apk": "tsundoku-en.wordexcerpt-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -1807,10 +1807,10 @@
   {
     "name": "Tsundoku: WTR-LAB",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.wtrlab",
-    "apk": "tsundoku-en.wtrlab-v1.4.4.apk",
+    "apk": "tsundoku-en.wtrlab-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -1883,10 +1883,10 @@
   {
     "name": "Tsundoku: WuxiaWorld.Site",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.wuxiaworldsite",
-    "apk": "tsundoku-en.wuxiaworldsite-v1.4.3.apk",
+    "apk": "tsundoku-en.wuxiaworldsite-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -1902,10 +1902,10 @@
   {
     "name": "Tsundoku: Zetro Translation",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.zetrotranslation",
-    "apk": "tsundoku-en.zetrotranslation-v1.4.5.apk",
+    "apk": "tsundoku-en.zetrotranslation-v1.4.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -1921,10 +1921,10 @@
   {
     "name": "Tsundoku: PanchoTranslations",
     "pkg": "eu.kanade.tachiyomi.novelextension.es.panchotranslations",
-    "apk": "tsundoku-es.panchotranslations-v1.4.3.apk",
+    "apk": "tsundoku-es.panchotranslations-v1.4.4.apk",
     "lang": "es",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -1978,10 +1978,10 @@
   {
     "name": "Tsundoku: MassNovel",
     "pkg": "eu.kanade.tachiyomi.novelextension.fr.massnovel",
-    "apk": "tsundoku-fr.massnovel-v1.4.3.apk",
+    "apk": "tsundoku-fr.massnovel-v1.4.4.apk",
     "lang": "fr",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -1997,10 +1997,10 @@
   {
     "name": "Tsundoku: WorldNovel",
     "pkg": "eu.kanade.tachiyomi.novelextension.fr.worldnovel",
-    "apk": "tsundoku-fr.worldnovel-v1.4.3.apk",
+    "apk": "tsundoku-fr.worldnovel-v1.4.4.apk",
     "lang": "fr",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -2035,10 +2035,10 @@
   {
     "name": "Tsundoku: MeioNovel",
     "pkg": "eu.kanade.tachiyomi.novelextension.id.meionovel",
-    "apk": "tsundoku-id.meionovel-v1.4.3.apk",
+    "apk": "tsundoku-id.meionovel-v1.4.4.apk",
     "lang": "id",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -2054,10 +2054,10 @@
   {
     "name": "Tsundoku: NovelBookID",
     "pkg": "eu.kanade.tachiyomi.novelextension.id.novelbookid",
-    "apk": "tsundoku-id.novelbookid-v1.4.3.apk",
+    "apk": "tsundoku-id.novelbookid-v1.4.4.apk",
     "lang": "id",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -2092,10 +2092,10 @@
   {
     "name": "Tsundoku: Vanovel",
     "pkg": "eu.kanade.tachiyomi.novelextension.id.vanovel",
-    "apk": "tsundoku-id.vanovel-v1.4.3.apk",
+    "apk": "tsundoku-id.vanovel-v1.4.4.apk",
     "lang": "id",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -2111,10 +2111,10 @@
   {
     "name": "Tsundoku: WBNovel",
     "pkg": "eu.kanade.tachiyomi.novelextension.id.wbnovel",
-    "apk": "tsundoku-id.wbnovel-v1.4.3.apk",
+    "apk": "tsundoku-id.wbnovel-v1.4.4.apk",
     "lang": "id",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -2130,10 +2130,10 @@
   {
     "name": "Tsundoku: FortuneEternal",
     "pkg": "eu.kanade.tachiyomi.novelextension.ko.fortuneeternal",
-    "apk": "tsundoku-ko.fortuneeternal-v1.4.3.apk",
+    "apk": "tsundoku-ko.fortuneeternal-v1.4.4.apk",
     "lang": "ko",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -2168,10 +2168,10 @@
   {
     "name": "Tsundoku: NovelLucky",
     "pkg": "eu.kanade.tachiyomi.novelextension.th.novellucky",
-    "apk": "tsundoku-th.novellucky-v1.4.3.apk",
+    "apk": "tsundoku-th.novellucky-v1.4.4.apk",
     "lang": "th",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -2187,10 +2187,10 @@
   {
     "name": "Tsundoku: EKitaplar",
     "pkg": "eu.kanade.tachiyomi.novelextension.tr.ekitaplar",
-    "apk": "tsundoku-tr.ekitaplar-v1.4.3.apk",
+    "apk": "tsundoku-tr.ekitaplar-v1.4.4.apk",
     "lang": "tr",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -2263,10 +2263,10 @@
   {
     "name": "Tsundoku: RagnarScans",
     "pkg": "eu.kanade.tachiyomi.novelextension.tr.ragnarscans",
-    "apk": "tsundoku-tr.ragnarscans-v1.4.3.apk",
+    "apk": "tsundoku-tr.ragnarscans-v1.4.4.apk",
     "lang": "tr",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -2282,10 +2282,10 @@
   {
     "name": "Tsundoku: TurkceLightNovels",
     "pkg": "eu.kanade.tachiyomi.novelextension.tr.turkcelightnovels",
-    "apk": "tsundoku-tr.turkcelightnovels-v1.4.3.apk",
+    "apk": "tsundoku-tr.turkcelightnovels-v1.4.4.apk",
     "lang": "tr",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -2301,10 +2301,10 @@
   {
     "name": "Tsundoku: WebNovelOku",
     "pkg": "eu.kanade.tachiyomi.novelextension.tr.webnoveloku",
-    "apk": "tsundoku-tr.webnoveloku-v1.4.3.apk",
+    "apk": "tsundoku-tr.webnoveloku-v1.4.4.apk",
     "lang": "tr",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
