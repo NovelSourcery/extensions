@@ -1807,10 +1807,10 @@
   {
     "name": "Tsundoku: WTR-LAB",
     "pkg": "eu.kanade.tachiyomi.novelextension.en.wtrlab",
-    "apk": "tsundoku-en.wtrlab-v1.4.5.apk",
+    "apk": "tsundoku-en.wtrlab-v1.4.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
