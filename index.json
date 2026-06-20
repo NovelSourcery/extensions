@@ -78,10 +78,10 @@
   {
     "name": "Tsundoku: Galaxy Novels",
     "pkg": "eu.kanade.tachiyomi.novelextension.ar.galaxynovels",
-    "apk": "tsundoku-ar.galaxynovels-v1.4.1.apk",
+    "apk": "tsundoku-ar.galaxynovels-v1.4.2.apk",
     "lang": "ar",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "isNovel": true,
     "sources": [
@@ -90,6 +90,25 @@
         "lang": "ar",
         "id": "3537320189607150363",
         "baseUrl": "https://galaxynovels.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tsundoku: Golden Rest",
+    "pkg": "eu.kanade.tachiyomi.novelextension.ar.goldenrest",
+    "apk": "tsundoku-ar.goldenrest-v1.4.1.apk",
+    "lang": "ar",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "isNovel": true,
+    "sources": [
+      {
+        "name": "Golden Rest",
+        "lang": "ar",
+        "id": "3453130864258448620",
+        "baseUrl": "https://golden.rest",
         "versionId": 1
       }
     ]
@@ -152,6 +171,25 @@
     ]
   },
   {
+    "name": "Tsundoku: Novel Arab",
+    "pkg": "eu.kanade.tachiyomi.novelextension.ar.novelarab",
+    "apk": "tsundoku-ar.novelarab-v1.4.4.apk",
+    "lang": "ar",
+    "code": 4,
+    "version": "1.4.4",
+    "nsfw": 0,
+    "isNovel": true,
+    "sources": [
+      {
+        "name": "Novel Arab",
+        "lang": "ar",
+        "id": "490148004161223479",
+        "baseUrl": "https://novelarab.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tsundoku: NovelsParadise",
     "pkg": "eu.kanade.tachiyomi.novelextension.ar.novelsparadise",
     "apk": "tsundoku-ar.novelsparadise-v1.4.2.apk",
@@ -171,6 +209,63 @@
     ]
   },
   {
+    "name": "Tsundoku: Rewayah Fans",
+    "pkg": "eu.kanade.tachiyomi.novelextension.ar.rewayahfans",
+    "apk": "tsundoku-ar.rewayahfans-v1.4.1.apk",
+    "lang": "ar",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "isNovel": true,
+    "sources": [
+      {
+        "name": "Rewayah Fans",
+        "lang": "ar",
+        "id": "3219359210254526553",
+        "baseUrl": "https://rewayahfans.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tsundoku: Rewayat Club",
+    "pkg": "eu.kanade.tachiyomi.novelextension.ar.rewayatclub",
+    "apk": "tsundoku-ar.rewayatclub-v1.4.1.apk",
+    "lang": "ar",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "isNovel": true,
+    "sources": [
+      {
+        "name": "Rewayat Club",
+        "lang": "ar",
+        "id": "8753397603380739117",
+        "baseUrl": "https://rewayat.club",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tsundoku: Rewayat Fans",
+    "pkg": "eu.kanade.tachiyomi.novelextension.ar.rewayatfans",
+    "apk": "tsundoku-ar.rewayatfans-v1.4.1.apk",
+    "lang": "ar",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "isNovel": true,
+    "sources": [
+      {
+        "name": "Rewayat Fans",
+        "lang": "ar",
+        "id": "8422897976926013088",
+        "baseUrl": "https://rewayatfans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tsundoku: Riwyat",
     "pkg": "eu.kanade.tachiyomi.novelextension.ar.riwyat",
     "apk": "tsundoku-ar.riwyat-v1.4.4.apk",
@@ -185,6 +280,44 @@
         "lang": "ar",
         "id": "3911602848528027929",
         "baseUrl": "https://cenele.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tsundoku: SeaNovel",
+    "pkg": "eu.kanade.tachiyomi.novelextension.ar.seanovel",
+    "apk": "tsundoku-ar.seanovel-v1.4.1.apk",
+    "lang": "ar",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "isNovel": true,
+    "sources": [
+      {
+        "name": "SeaNovel",
+        "lang": "ar",
+        "id": "7953088418839296694",
+        "baseUrl": "https://seanovel.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tsundoku: Sunovels",
+    "pkg": "eu.kanade.tachiyomi.novelextension.ar.sunovels",
+    "apk": "tsundoku-ar.sunovels-v1.4.1.apk",
+    "lang": "ar",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "isNovel": true,
+    "sources": [
+      {
+        "name": "Sunovels",
+        "lang": "ar",
+        "id": "4644508340445345656",
+        "baseUrl": "https://sunovels.com",
         "versionId": 1
       }
     ]
