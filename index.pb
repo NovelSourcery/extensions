@@ -68,7 +68,7 @@ AsianNovelen"https://www.asianovel.net
 nhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.boxnovel-v1.4.5.apk‚https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.boxnovel.png"1.4(21.4.5B/ì”€™îÚª nBoxNovelen"https://novelnice.com
 ”
 Tsundoku: Bright Novels2eu.kanade.tachiyomi.novelextension.en.brightnovelsı
-rhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.brightnovels-v1.4.3.apk†https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.brightnovels.png"1.4(21.4.3B7ë¬ù©ôÜßHBright Novelsen"https://brightnovels.com
+rhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.brightnovels-v1.4.4.apk†https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.brightnovels.png"1.4(21.4.4B7ë¬ù©ôÜßHBright Novelsen"https://brightnovels.com
 ’
 Tsundoku: CitrusAurora2eu.kanade.tachiyomi.novelextension.en.citrusauroraı
 rhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.citrusaurora-v1.4.4.apk†https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.citrusaurora.png"1.4(21.4.4B6ÅŞ»î¦ª³sCitrusAuroraen"https://citrusaurora.com
