@@ -164,7 +164,7 @@ vhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/
 thttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.lightnovelplus-v1.4.6.apkˆhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.lightnovelplus.png"1.4(21.4.6B:¥®Ú×Ð»ßå.LightNovelPlusen"https://lightnovelplus.com
 Ð
 "Tsundoku: Light Novel Translations;eu.kanade.tachiyomi.novelextension.en.lightnoveltranslation
-{https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.lightnoveltranslation-v1.4.1.apkhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.lightnoveltranslation.png"1.4(21.4.1BMêÁÿ¤Î»˜×dLight Novel Translationsen"#https://lightnovelstranslations.com
+{https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.lightnoveltranslation-v1.4.2.apkhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.lightnoveltranslation.png"1.4(21.4.2BMêÁÿ¤Î»˜×dLight Novel Translationsen"#https://lightnovelstranslations.com
 ¨
 Tsundoku: Light Novel World5eu.kanade.tachiyomi.novelextension.en.lightnovelworldƒ
 uhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.lightnovelworld-v1.4.2.apk‰https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.lightnovelworld.png"1.4(21.4.2B>®‰–•¦ýïÒLight Novel Worlden"https://lightnovelworld.org
