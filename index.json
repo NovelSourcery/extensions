@@ -1248,12 +1248,12 @@
         "name": "Tsundoku: NovelBuddy",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.novelbuddy",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.novelbuddy-v1.4.2.apk",
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.novelbuddy-v1.4.3.apk",
           "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.novelbuddy.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "2",
-        "versionName": "1.4.2",
+        "versionCode": "3",
+        "versionName": "1.4.3",
         "sources": [
           {
             "id": "1260875580122894435",

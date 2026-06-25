@@ -208,7 +208,7 @@ ohttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/
 nhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.novelbin-v1.4.7.apk‚https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.novelbin.png"1.4(21.4.7B.‘θ¶¬΄η‰…NovelBinen"https://novelbin.com
 …
 Tsundoku: NovelBuddy0eu.kanade.tachiyomi.novelextension.en.novelbuddyω
-phttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.novelbuddy-v1.4.2.apk„https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.novelbuddy.png"1.4(21.4.2B1γ Β™υαΏ
+phttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.novelbuddy-v1.4.3.apk„https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.novelbuddy.png"1.4(21.4.3B1γ Β™υαΏ
 NovelBuddyen"https://novelbuddy.io
 €
 Tsundoku: NovelCool/eu.kanade.tachiyomi.novelextension.en.novelcoolχ
