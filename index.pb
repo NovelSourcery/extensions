@@ -1,6 +1,6 @@
 
 NovelSourceryNS@4281820d4866bb71bed3dec5224aad9cf4633d44a113682cfb0c3b1cfd71702d"@
-https://novelsourcery.github.iohttps://discord.gg/JG2K2jTjd6ªˆ˜
+https://novelsourcery.github.iohttps://discord.gg/JG2K2jTjd6ª«›
 ã
 Tsundoku: Calibre.eu.kanade.tachiyomi.novelextension.all.calibreõ
 nhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-all.calibre-v1.4.1.apk‚https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.all.calibre.png"1.4(21.4.1Bí¤•ğ×ü¼¢?Calibreall
@@ -72,6 +72,9 @@ rhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/
 ’
 Tsundoku: CitrusAurora2eu.kanade.tachiyomi.novelextension.en.citrusauroraı
 rhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.citrusaurora-v1.4.4.apk†https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.citrusaurora.png"1.4(21.4.4B6ÅŞ»î¦ª³sCitrusAuroraen"https://citrusaurora.com
+ 
+Tsundoku: Crimson Scrolls4eu.kanade.tachiyomi.novelextension.en.crimsonscrolls
+thttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.crimsonscrolls-v1.4.1.apkˆhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.crimsonscrolls.png"1.4(21.4.1B;áÜ§—Š†•Ô)Crimson Scrollsen"https://crimsonscrolls.net
 ”
 Tsundoku: Dao Translate2eu.kanade.tachiyomi.novelextension.en.daotranslateı
 rhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.daotranslate-v1.4.2.apk†https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.daotranslate.png"1.4(21.4.2B7ßŒ´¥œúÏáDao Translateen"https://daotranslate.com

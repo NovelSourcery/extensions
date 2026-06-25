@@ -445,6 +445,25 @@
         ]
       },
       {
+        "name": "Tsundoku: Crimson Scrolls",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.crimsonscrolls",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.crimsonscrolls-v1.4.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.crimsonscrolls.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "sources": [
+          {
+            "id": "3001741719510838881",
+            "name": "Crimson Scrolls",
+            "language": "en",
+            "homeUrl": "https://crimsonscrolls.net"
+          }
+        ]
+      },
+      {
         "name": "Tsundoku: Dao Translate",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.daotranslate",
         "resources": {
