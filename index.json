@@ -2047,12 +2047,12 @@
         "name": "Tsundoku: WordExcerpt",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.wordexcerpt",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.wordexcerpt-v1.4.4.apk",
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.wordexcerpt-v1.4.2.apk",
           "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.wordexcerpt.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "4",
-        "versionName": "1.4.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
         "sources": [
           {
             "id": "6977450237885033410",

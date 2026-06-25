@@ -337,7 +337,7 @@ nhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/
 yhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.webnoveltranslation-v1.4.4.apkhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.webnoveltranslation.png"1.4(21.4.4BFşáƒßˆ‘àÿXWebNovel Translationen" https://webnoveltranslations.com
 Œ
 Tsundoku: WordExcerpt1eu.kanade.tachiyomi.novelextension.en.wordexcerptû
-qhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.wordexcerpt-v1.4.4.apk…https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.wordexcerpt.png"1.4(21.4.4B4Â×è˜ßÀ¸ê`WordExcerpten"https://wordexcerpt.com
+qhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.wordexcerpt-v1.4.2.apk…https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.wordexcerpt.png"1.4(21.4.2B4Â×è˜ßÀ¸ê`WordExcerpten"https://wordexcerpt.com
 ñ
 Tsundoku: WTR-LAB,eu.kanade.tachiyomi.novelextension.en.wtrlabñ
 lhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.wtrlab-v1.4.6.apk€https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.wtrlab.png"1.4(21.4.6B,è†ø““àãÉWTR-LABen"https://wtr-lab.com
