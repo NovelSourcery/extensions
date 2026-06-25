@@ -1,6 +1,6 @@
 
 NovelSourceryNS@4281820d4866bb71bed3dec5224aad9cf4633d44a113682cfb0c3b1cfd71702d"@
-https://novelsourcery.github.iohttps://discord.gg/JG2K2jTjd6ª«›
+https://novelsourcery.github.iohttps://discord.gg/JG2K2jTjd6ªàž
 ã
 Tsundoku: Calibre.eu.kanade.tachiyomi.novelextension.all.calibreõ
 nhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-all.calibre-v1.4.1.apk‚https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.all.calibre.png"1.4(21.4.1Bí¤•ð×ü¼¢?Calibreall
@@ -78,6 +78,9 @@ thttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/
 ”
 Tsundoku: Dao Translate2eu.kanade.tachiyomi.novelextension.en.daotranslateý
 rhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.daotranslate-v1.4.2.apk†https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.daotranslate.png"1.4(21.4.2B7ßŒ´¥œúÏáDao Translateen"https://daotranslate.com
+²
+Tsundoku: Divine Dao Library6eu.kanade.tachiyomi.novelextension.en.divinedaolibrary…
+vhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.divinedaolibrary-v1.4.2.apkŠhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.divinedaolibrary.png"1.4(21.4.2BD¹þÂæþã‹ˆDivine Dao Libraryen" https://www.divinedaolibrary.com
 ™
 Tsundoku: Dragonholic1eu.kanade.tachiyomi.novelextension.en.dragonholicû
 qhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.dragonholic-v1.4.4.apk…https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.dragonholic.png"1.4(21.4.4BAÒžã¶žÑïØNDragonholicen"$https://dragonholictranslations.com/

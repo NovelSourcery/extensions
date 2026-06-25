@@ -483,6 +483,25 @@
         ]
       },
       {
+        "name": "Tsundoku: Divine Dao Library",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.divinedaolibrary",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.divinedaolibrary-v1.4.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.divinedaolibrary.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "sources": [
+          {
+            "id": "1301592106473668409",
+            "name": "Divine Dao Library",
+            "language": "en",
+            "homeUrl": "https://www.divinedaolibrary.com"
+          }
+        ]
+      },
+      {
         "name": "Tsundoku: Dragonholic",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.dragonholic",
         "resources": {
