@@ -1,6 +1,6 @@
 
 NovelSourceryNS@4281820d4866bb71bed3dec5224aad9cf4633d44a113682cfb0c3b1cfd71702d"@
-https://novelsourcery.github.iohttps://discord.gg/JG2K2jTjd6ªÚ¤
+https://novelsourcery.github.iohttps://discord.gg/JG2K2jTjd6ªä§
 ã
 Tsundoku: Calibre.eu.kanade.tachiyomi.novelextension.all.calibreõ
 nhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-all.calibre-v1.4.1.apk‚https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.all.calibre.png"1.4(21.4.1Bí¤•ğ×ü¼¢?Calibreall
@@ -63,6 +63,10 @@ rhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/
 Tsundoku: AsianNovel0eu.kanade.tachiyomi.novelextension.en.asiannovelù
 phttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.asiannovel-v1.4.3.apk„https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.asiannovel.png"1.4(21.4.3B5¯…øš´¸/
 AsianNovelen"https://www.asianovel.net
+‡
+Tsundoku: Baka-Tsuki/eu.kanade.tachiyomi.novelextension.en.bakatsuki÷
+ohttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.bakatsuki-v1.4.1.apkƒhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.bakatsuki.png"1.4(21.4.1B6Ó¤Äñ…×å–!
+Baka-Tsukien"https://www.baka-tsuki.org
 û
 Tsundoku: BoxNovel.eu.kanade.tachiyomi.novelextension.en.boxnovelõ
 nhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.boxnovel-v1.4.5.apk‚https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.boxnovel.png"1.4(21.4.5B/ì”€™îÚª nBoxNovelen"https://novelnice.com

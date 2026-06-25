@@ -388,6 +388,25 @@
         ]
       },
       {
+        "name": "Tsundoku: Baka-Tsuki",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.bakatsuki",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.bakatsuki-v1.4.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.bakatsuki.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "sources": [
+          {
+            "id": "2390732695802024531",
+            "name": "Baka-Tsuki",
+            "language": "en",
+            "homeUrl": "https://www.baka-tsuki.org"
+          }
+        ]
+      },
+      {
         "name": "Tsundoku: BoxNovel",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.boxnovel",
         "resources": {
