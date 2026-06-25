@@ -1344,12 +1344,12 @@
         "name": "Tsundoku: NovelHall",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.novelhall",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.novelhall-v1.4.3.apk",
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.novelhall-v1.4.4.apk",
           "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.novelhall.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "3",
-        "versionName": "1.4.3",
+        "versionCode": "4",
+        "versionName": "1.4.4",
         "sources": [
           {
             "id": "8288303759567562418",
