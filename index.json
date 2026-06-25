@@ -1360,6 +1360,25 @@
         ]
       },
       {
+        "name": "Tsundoku: NovelHi",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.novelhi",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.novelhi-v1.4.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.novelhi.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "sources": [
+          {
+            "id": "8933333716239534946",
+            "name": "NovelHi",
+            "language": "en",
+            "homeUrl": "https://novelhi.com"
+          }
+        ]
+      },
+      {
         "name": "Tsundoku: NovelHub",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.novelhub",
         "resources": {
