@@ -1379,6 +1379,25 @@
         ]
       },
       {
+        "name": "Tsundoku: NovelLive",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.novellive",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.novellive-v1.4.5.apk",
+          "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.novellive.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
+        "sources": [
+          {
+            "id": "2137700184007023421",
+            "name": "NovelLive",
+            "language": "en",
+            "homeUrl": "https://novellive.app"
+          }
+        ]
+      },
+      {
         "name": "Tsundoku: NovelMultiverse",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.novelmultiverse",
         "resources": {
