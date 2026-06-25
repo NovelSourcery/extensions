@@ -1417,6 +1417,25 @@
         ]
       },
       {
+        "name": "Tsundoku: Novelight",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.novelight",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.novelight-v1.4.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.novelight.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "sources": [
+          {
+            "id": "4811723336535255643",
+            "name": "Novelight",
+            "language": "en",
+            "homeUrl": "https://novelight.net"
+          }
+        ]
+      },
+      {
         "name": "Tsundoku: NovelLib",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.novellib",
         "resources": {
