@@ -2082,6 +2082,25 @@
         ]
       },
       {
+        "name": "Tsundoku: WoopRead",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.woopread",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.woopread-v1.4.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.woopread.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "sources": [
+          {
+            "id": "8919726581572234359",
+            "name": "WoopRead",
+            "language": "en",
+            "homeUrl": "https://woopread.com"
+          }
+        ]
+      },
+      {
         "name": "Tsundoku: WordExcerpt",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.wordexcerpt",
         "resources": {
