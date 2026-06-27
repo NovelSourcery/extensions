@@ -2063,6 +2063,25 @@
         ]
       },
       {
+        "name": "Tsundoku: WeTried Translations",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.wetriedtls",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.wetriedtls-v1.4.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.wetriedtls.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "sources": [
+          {
+            "id": "5280682143460728756",
+            "name": "WeTried Translations",
+            "language": "en",
+            "homeUrl": "https://wetriedtls.com"
+          }
+        ]
+      },
+      {
         "name": "Tsundoku: WordExcerpt",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.wordexcerpt",
         "resources": {
