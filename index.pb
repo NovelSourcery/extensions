@@ -1,6 +1,6 @@
 
 NovelSourceryNS@4281820d4866bb71bed3dec5224aad9cf4633d44a113682cfb0c3b1cfd71702d"@
-https://novelsourcery.github.iohttps://discord.gg/JG2K2jTjd6ªş­
+https://novelsourcery.github.iohttps://discord.gg/JG2K2jTjd6ª±
 ã
 Tsundoku: Calibre.eu.kanade.tachiyomi.novelextension.all.calibreõ
 nhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-all.calibre-v1.4.1.apk‚https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.all.calibre.png"1.4(21.4.1Bí¤•ğ×ü¼¢?Calibreall
@@ -358,6 +358,9 @@ nhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/
 Tsundoku: WuxiaClick0eu.kanade.tachiyomi.novelextension.en.wuxiaclickù
 phttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.wuxiaclick-v1.4.4.apk„https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.wuxiaclick.png"1.4(21.4.4B0¶Âûû…ç¸Î7
 WuxiaClickall"https://wuxia.click
+Œ
+Tsundoku: WuxiaDreams1eu.kanade.tachiyomi.novelextension.en.wuxiadreamsû
+qhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.wuxiadreams-v1.4.1.apk…https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.wuxiadreams.png"1.4(21.4.1B4€íş÷¢Ê­WuxiaDreamsen"https://wuxiadreams.com
 ‹
 Tsundoku: Wuxia Space0eu.kanade.tachiyomi.novelextension.en.wuxiaspaceù
 phttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.wuxiaspace-v1.4.4.apk„https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.wuxiaspace.png"1.4(21.4.4B6›¼ş³ÆÁòQWuxia Spaceen"https://www.wuxiaspot.com

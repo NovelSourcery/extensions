@@ -2177,6 +2177,25 @@
         ]
       },
       {
+        "name": "Tsundoku: WuxiaDreams",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.wuxiadreams",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.wuxiadreams-v1.4.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.wuxiadreams.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "sources": [
+          {
+            "id": "9176973136577410688",
+            "name": "WuxiaDreams",
+            "language": "en",
+            "homeUrl": "https://wuxiadreams.com"
+          }
+        ]
+      },
+      {
         "name": "Tsundoku: Wuxia Space",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.wuxiaspace",
         "resources": {
