@@ -1245,6 +1245,25 @@
         ]
       },
       {
+        "name": "Tsundoku: Novel Archive",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.novelarchive",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.novelarchive-v1.4.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.novelarchive.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "sources": [
+          {
+            "id": "8576123571093797433",
+            "name": "Novel Archive",
+            "language": "en",
+            "homeUrl": "https://novelarchive.cc"
+          }
+        ]
+      },
+      {
         "name": "Tsundoku: NovelBin",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.novelbin",
         "resources": {
