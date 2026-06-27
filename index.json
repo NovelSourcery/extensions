@@ -1914,12 +1914,12 @@
         "name": "Tsundoku: TomatoMTL",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.tomatomtl",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.tomatomtl-v1.4.4.apk",
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.tomatomtl-v1.4.6.apk",
           "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.tomatomtl.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "4",
-        "versionName": "1.4.4",
+        "versionCode": "6",
+        "versionName": "1.4.6",
         "sources": [
           {
             "id": "2613863018536210193",

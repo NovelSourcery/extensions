@@ -317,7 +317,7 @@ xhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/
 whttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.systemtranslation-v1.4.2.apk‹https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.systemtranslation.png"1.4(21.4.2BA¢Âñ‰îËÖ£System Translationen"https://systemtranslation.com
 €
 Tsundoku: TomatoMTL/eu.kanade.tachiyomi.novelextension.en.tomatomtl÷
-ohttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.tomatomtl-v1.4.4.apkƒhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.tomatomtl.png"1.4(21.4.4B0‘†»Ò“£$	TomatoMTLen"https://tomatomtl.com
+ohttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.tomatomtl-v1.4.6.apkƒhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.tomatomtl.png"1.4(21.4.6B0‘†»Ò“£$	TomatoMTLen"https://tomatomtl.com
 š
 Tsundoku: Translatin Otaku1eu.kanade.tachiyomi.novelextension.en.translatinoû
 qhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.translatino-v1.4.5.apk…https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.translatino.png"1.4(21.4.5B=¯é•˜Ô”:Translatin Otakuen"https://translatinotaku.net
