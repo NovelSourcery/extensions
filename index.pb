@@ -1,6 +1,6 @@
 
 NovelSourceryNS@4281820d4866bb71bed3dec5224aad9cf4633d44a113682cfb0c3b1cfd71702d"@
-https://novelsourcery.github.iohttps://discord.gg/JG2K2jTjd6ª­´
+https://novelsourcery.github.iohttps://discord.gg/JG2K2jTjd6ªº´
 ã
 Tsundoku: Calibre.eu.kanade.tachiyomi.novelextension.all.calibreõ
 nhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-all.calibre-v1.4.1.apk‚https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.all.calibre.png"1.4(21.4.1Bí¤•ğ×ü¼¢?Calibreall
@@ -97,10 +97,6 @@ ohttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/
 Tsundoku: DuskBlossoms2eu.kanade.tachiyomi.novelextension.en.duskblossomsı
 rhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.duskblossoms-v1.4.4.apk†https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.duskblossoms.png"1.4(21.4.4B6™ŞÚÑ³ŸÇ7DuskBlossomsen"https://duskblossoms.com
 †
-Tsundoku: EPUB KFCok/eu.kanade.tachiyomi.novelextension.en.epubkfcok÷
-ohttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.epubkfcok-v1.4.2.apkƒhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.epubkfcok.png"1.4(21.4.2B5–‚åë¡ãÚ¤B
-EPUB KFCokall"https://fucknovelpia.com
-†
 Tsundoku: Eternalune0eu.kanade.tachiyomi.novelextension.en.eternaluneù
 phttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.eternalune-v1.4.4.apk„https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.eternalune.png"1.4(21.4.4B2áÿ‹ùÁº<
 Eternaluneen"https://eternalune.com
@@ -131,6 +127,9 @@ qhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/
 Tsundoku: FreeWebNovel2eu.kanade.tachiyomi.novelextension.en.freewebnovelş
 shttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.freewebnovel-v1.4.10.apk†https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.freewebnovel.png"1.4(
 21.4.10B6îß´‹ Úœ7FreeWebNovelen"https://freewebnovel.com
+“
+Tsundoku: FUCKNOVELPIA2eu.kanade.tachiyomi.novelextension.en.fucknovelpiaı
+rhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.fucknovelpia-v1.4.3.apk†https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.fucknovelpia.png"1.4(21.4.3B7–‚åë¡ãÚ¤BFUCKNOVELPIAall"https://fucknovelpia.com
 »
 Tsundoku: Hiraeth Translation9eu.kanade.tachiyomi.novelextension.en.hireaththranslation‹
 yhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.hireaththranslation-v1.4.4.apkhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.hireaththranslation.png"1.4(21.4.4BC»—‘ıŞø£\Hiraeth Translationen"https://hiraethtranslation.com

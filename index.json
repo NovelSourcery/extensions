@@ -578,25 +578,6 @@
         ]
       },
       {
-        "name": "Tsundoku: EPUB KFCok",
-        "packageName": "eu.kanade.tachiyomi.novelextension.en.epubkfcok",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.epubkfcok-v1.4.2.apk",
-          "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.epubkfcok.png"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "2",
-        "versionName": "1.4.2",
-        "sources": [
-          {
-            "id": "4776466639710929174",
-            "name": "EPUB KFCok",
-            "language": "all",
-            "homeUrl": "https://fucknovelpia.com"
-          }
-        ]
-      },
-      {
         "name": "Tsundoku: Eternalune",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.eternalune",
         "resources": {
@@ -765,6 +746,25 @@
             "name": "FreeWebNovel",
             "language": "en",
             "homeUrl": "https://freewebnovel.com"
+          }
+        ]
+      },
+      {
+        "name": "Tsundoku: FUCKNOVELPIA",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.fucknovelpia",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.fucknovelpia-v1.4.3.apk",
+          "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.fucknovelpia.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "sources": [
+          {
+            "id": "4776466639710929174",
+            "name": "FUCKNOVELPIA",
+            "language": "all",
+            "homeUrl": "https://fucknovelpia.com"
           }
         ]
       },
