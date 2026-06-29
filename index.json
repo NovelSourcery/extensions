@@ -734,12 +734,12 @@
         "name": "Tsundoku: FreeWebNovel",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.freewebnovel",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.freewebnovel-v1.4.10.apk",
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.freewebnovel-v1.4.11.apk",
           "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.freewebnovel.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "10",
-        "versionName": "1.4.10",
+        "versionCode": "11",
+        "versionName": "1.4.11",
         "sources": [
           {
             "id": "3970612267773145070",

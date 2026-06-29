@@ -125,8 +125,7 @@ ohttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/
 qhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.foxaholic18-v1.4.4.apkÖhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.foxaholic18.png"1.4(21.4.48B7õ˙©ùµ⁄°ÒFoxaholic 18+en"https://18.foxaholic.com
 î
 Tsundoku: FreeWebNovel2eu.kanade.tachiyomi.novelextension.en.freewebnovel˛
-shttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.freewebnovel-v1.4.10.apkÜhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.freewebnovel.png"1.4(
-21.4.10B6Óﬂ¥ã†⁄úç7FreeWebNovelen"https://freewebnovel.com
+shttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.freewebnovel-v1.4.11.apkÜhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.freewebnovel.png"1.4(21.4.11B6Óﬂ¥ã†⁄úç7FreeWebNovelen"https://freewebnovel.com
 ì
 Tsundoku: FUCKNOVELPIA2eu.kanade.tachiyomi.novelextension.en.fucknovelpia˝
 rhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.fucknovelpia-v1.4.3.apkÜhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.fucknovelpia.png"1.4(21.4.3B7ñÇÂÎ°„⁄§BFUCKNOVELPIAall"https://fucknovelpia.com
