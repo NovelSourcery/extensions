@@ -201,7 +201,7 @@ nhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/
 nhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.mvlempyr-v1.4.1.apk‚https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.mvlempyr.png"1.4(21.4.1B1Ì¡¡×í«×¸MVLEMPYRen"https://www.mvlempyr.io
 ü
 Tsundoku: MZ Novels.eu.kanade.tachiyomi.novelextension.en.mznovelsõ
-nhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.mznovels-v1.4.2.apk‚https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.mznovels.png"1.4(21.4.2B/ˆÀèñäÆÖ’1	MZ Novelsen"https://mznovels.com
+nhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.mznovels-v1.4.3.apk‚https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.mznovels.png"1.4(21.4.3B/ˆÀèñäÆÖ’1	MZ Novelsen"https://mznovels.com
 ¤
 Tsundoku: NeoSekai Translations.eu.kanade.tachiyomi.novelextension.en.neosekaiõ
 nhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.neosekai-v1.4.4.apk‚https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.neosekai.png"1.4(21.4.4BKùë§¤¡»Ò¦>NeoSekai Translationsen"$https://www.neosekaitranslations.com
