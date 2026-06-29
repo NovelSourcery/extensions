@@ -156,7 +156,7 @@ lhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/
 Konkonen"https://konkon.ink
 ú
 Tsundoku: KuuPress.eu.kanade.tachiyomi.novelextension.en.kuupressõ
-nhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.kuupress-v1.4.5.apk‚https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.kuupress.png"1.4(21.4.5B.ª›‡µö§û¼ KuuPressen"https://kuupress.com
+nhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.kuupress-v1.4.6.apk‚https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.kuupress.png"1.4(21.4.6B.ª›‡µö§û¼ KuuPressen"https://kuupress.com
 Á
 Tsundoku: LazyGirlTranslations:eu.kanade.tachiyomi.novelextension.en.lazygirltranslations
 zhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.lazygirltranslations-v1.4.2.apkhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.lazygirltranslations.png"1.4(21.4.2BEÑ”çƒıŠÜLazyGirlTranslationsen" https://lazygirltranslations.com
