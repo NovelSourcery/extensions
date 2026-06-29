@@ -120,7 +120,7 @@ phttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/
 Fenrirealmen"https://fenrirealm.com
 é
 Tsundoku: Fiction Zone1eu.kanade.tachiyomi.novelextension.en.fictionzone˚
-qhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.fictionzone-v1.4.4.apkÖhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.fictionzone.png"1.4(21.4.4B5ã…ßÑË≤Ÿú/Fiction Zoneen"https://fictionzone.net
+qhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.fictionzone-v1.4.5.apkÖhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.fictionzone.png"1.4(21.4.5B5ã…ßÑË≤Ÿú/Fiction Zoneen"https://fictionzone.net
 Ñ
 Tsundoku: Foxaholic/eu.kanade.tachiyomi.novelextension.en.foxaholic˜
 ohttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.foxaholic-v1.4.4.apkÉhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.foxaholic.png"1.4(21.4.4B4ûπ‘ê°ôı‚	Foxaholicen"https://www.foxaholic.com
