@@ -198,7 +198,7 @@ MTL Readeren"https://mtlreader.com
 nhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.mtlwuxia-v1.4.1.apk‚https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.mtlwuxia.png"1.4(21.4.1B/Ú¶öŠÐ„Ÿí|	MTL Wuxiaen"https://mtlwuxia.com
 ý
 Tsundoku: MVLEMPYR.eu.kanade.tachiyomi.novelextension.en.mvlempyrõ
-nhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.mvlempyr-v1.4.1.apk‚https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.mvlempyr.png"1.4(21.4.1B1Ì¡¡×í«×¸MVLEMPYRen"https://www.mvlempyr.io
+nhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.mvlempyr-v1.4.3.apk‚https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.mvlempyr.png"1.4(21.4.3B1Ì¡¡×í«×¸MVLEMPYRen"https://www.mvlempyr.io
 ü
 Tsundoku: MZ Novels.eu.kanade.tachiyomi.novelextension.en.mznovelsõ
 nhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.mznovels-v1.4.3.apk‚https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.mznovels.png"1.4(21.4.3B/ˆÀèñäÆÖ’1	MZ Novelsen"https://mznovels.com

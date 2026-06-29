@@ -1153,12 +1153,12 @@
         "name": "Tsundoku: MVLEMPYR",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.mvlempyr",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.mvlempyr-v1.4.1.apk",
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.mvlempyr-v1.4.3.apk",
           "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.mvlempyr.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "1",
-        "versionName": "1.4.1",
+        "versionCode": "3",
+        "versionName": "1.4.3",
         "sources": [
           {
             "id": "1545118809145757900",
