@@ -676,12 +676,12 @@
         "name": "Tsundoku: Fenrirealm",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.fenrirealm",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.fenrirealm-v1.4.6.apk",
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.fenrirealm-v1.4.7.apk",
           "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.fenrirealm.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "6",
-        "versionName": "1.4.6",
+        "versionCode": "7",
+        "versionName": "1.4.7",
         "sources": [
           {
             "id": "682359020507936644",
