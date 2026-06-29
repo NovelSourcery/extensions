@@ -230,7 +230,7 @@ ohttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/
 nhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.noveldex-v1.4.3.apkÇhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.noveldex.png"1.4(21.4.38B-∆Ñª•≥ı…„hNovelDexen"https://noveldex.io
 Å
 Tsundoku: Novel Fire/eu.kanade.tachiyomi.novelextension.en.novelfire˜
-ohttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.novelfire-v1.4.7.apkÉhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.novelfire.png"1.4(21.4.7B0Ú‰æÈ√á«∏c	NovelFireen"https://novelfire.net
+ohttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.novelfire-v1.4.8.apkÉhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.novelfire.png"1.4(21.4.8B0Ú‰æÈ√á«∏c	NovelFireen"https://novelfire.net
 Ä
 Tsundoku: NovelFull/eu.kanade.tachiyomi.novelextension.en.novelfull˜
 ohttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.novelfull-v1.4.9.apkÉhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.novelfull.png"1.4(	21.4.9B0úÁäÒ™ˇâí	NovelFullen"https://novelfull.com
