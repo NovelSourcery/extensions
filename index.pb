@@ -1,6 +1,6 @@
 
 NovelSourceryNS@4281820d4866bb71bed3dec5224aad9cf4633d44a113682cfb0c3b1cfd71702d"@
-https://novelsourcery.github.iohttps://discord.gg/JG2K2jTjd6™∫¥
+https://novelsourcery.github.iohttps://discord.gg/JG2K2jTjd6™›∑
 „
 Tsundoku: Calibre.eu.kanade.tachiyomi.novelextension.all.calibreı
 nhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-all.calibre-v1.4.1.apkÇhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.all.calibre.png"1.4(21.4.1BÌ§ï◊¸º¢?Calibreall
@@ -141,6 +141,9 @@ lhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/
 ß
 Tsundoku: Ippo Translation5eu.kanade.tachiyomi.novelextension.en.ippotranslationÉ
 uhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.ippotranslation-v1.4.3.apkâhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.ippotranslation.png"1.4(21.4.3B>î¯¡…Å„¥ª8Ippo Translationen"https://ippotranslations.com
+†
+Tsundoku: KatReadingCafe4eu.kanade.tachiyomi.novelextension.en.katreadingcafeÅ
+thttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.katreadingcafe-v1.4.2.apkàhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.katreadingcafe.png"1.4(21.4.2B<ﬂûíºÁ˚ÓˇKat Reading Cafeen"https://katreadingcafe.com
 Ç
 Tsundoku: KDT Novels/eu.kanade.tachiyomi.novelextension.en.kdtnovels˜
 ohttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.kdtnovels-v1.4.3.apkÉhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.kdtnovels.png"1.4(21.4.3B1Ö‹ü≈∫ ˙Æ!
