@@ -467,12 +467,12 @@
         "name": "Tsundoku: Crimson Scrolls",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.crimsonscrolls",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.crimsonscrolls-v1.4.1.apk",
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.crimsonscrolls-v1.4.2.apk",
           "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.crimsonscrolls.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "1",
-        "versionName": "1.4.1",
+        "versionCode": "2",
+        "versionName": "1.4.2",
         "sources": [
           {
             "id": "3001741719510838881",
@@ -1305,18 +1305,18 @@
         "name": "Tsundoku: NovelBuddy",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.novelbuddy",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.novelbuddy-v1.4.3.apk",
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.novelbuddy-v1.4.4.apk",
           "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.novelbuddy.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "3",
-        "versionName": "1.4.3",
+        "versionCode": "4",
+        "versionName": "1.4.4",
         "sources": [
           {
             "id": "1260875580122894435",
             "name": "NovelBuddy",
             "language": "en",
-            "homeUrl": "https://novelbuddy.io"
+            "homeUrl": "https://novelbuddy.me"
           }
         ]
       },

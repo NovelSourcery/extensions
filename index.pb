@@ -78,7 +78,7 @@ rhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/
 rhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.citrusaurora-v1.4.4.apk†https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.citrusaurora.png"1.4(21.4.4B6ÅŞ»î¦ª³sCitrusAuroraen"https://citrusaurora.com
  
 Tsundoku: Crimson Scrolls4eu.kanade.tachiyomi.novelextension.en.crimsonscrolls
-thttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.crimsonscrolls-v1.4.1.apkˆhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.crimsonscrolls.png"1.4(21.4.1B;áÜ§—Š†•Ô)Crimson Scrollsen"https://crimsonscrolls.net
+thttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.crimsonscrolls-v1.4.2.apkˆhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.crimsonscrolls.png"1.4(21.4.2B;áÜ§—Š†•Ô)Crimson Scrollsen"https://crimsonscrolls.net
 ”
 Tsundoku: Dao Translate2eu.kanade.tachiyomi.novelextension.en.daotranslateı
 rhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.daotranslate-v1.4.3.apk†https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.daotranslate.png"1.4(21.4.3B7ßŒ´¥œúÏáDao Translateen"https://daotranslate.com
@@ -218,8 +218,8 @@ rhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/
 ohttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.novelbin-v1.4.11.apk‚https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.novelbin.png"1.4(21.4.11B.‘è¶¬´ç‰…NovelBinen"https://novelbin.com
 …
 Tsundoku: NovelBuddy0eu.kanade.tachiyomi.novelextension.en.novelbuddyù
-phttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.novelbuddy-v1.4.3.apk„https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.novelbuddy.png"1.4(21.4.3B1ã Â™õá¿
-NovelBuddyen"https://novelbuddy.io
+phttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.novelbuddy-v1.4.4.apk„https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.novelbuddy.png"1.4(21.4.4B1ã Â™õá¿
+NovelBuddyen"https://novelbuddy.me
 €
 Tsundoku: NovelCool/eu.kanade.tachiyomi.novelextension.en.novelcool÷
 ohttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.novelcool-v1.4.2.apkƒhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.novelcool.png"1.4(21.4.2B0¯¡ÿÄ®á™‡i	NovelCoolen"https://novelcool.com
