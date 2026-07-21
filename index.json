@@ -1283,6 +1283,25 @@
         ]
       },
       {
+        "name": "Tsundoku: NovelArrow",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.novelarrow",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.novelarrow-v1.4.3.apk",
+          "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.novelarrow.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "sources": [
+          {
+            "id": "452096882710498296",
+            "name": "NovelArrow",
+            "language": "en",
+            "homeUrl": "https://novelarrow.com"
+          }
+        ]
+      },
+      {
         "name": "Tsundoku: NovelBin",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.novelbin",
         "resources": {
@@ -2082,21 +2101,21 @@
         ]
       },
       {
-        "name": "Tsundoku: WebNovel Translation",
+        "name": "Tsundoku: WNTL",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.webnoveltranslation",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.webnoveltranslation-v1.4.4.apk",
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.webnoveltranslation-v1.4.5.apk",
           "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.webnoveltranslation.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "4",
-        "versionName": "1.4.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
         "sources": [
           {
             "id": "6412985718349558014",
-            "name": "WebNovel Translation",
+            "name": "WNTL",
             "language": "en",
-            "homeUrl": "https://webnoveltranslations.com"
+            "homeUrl": "https://wntl.net"
           }
         ]
       },
