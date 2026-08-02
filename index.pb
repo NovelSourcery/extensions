@@ -110,7 +110,7 @@ mhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/
 vhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.fanstranslations-v1.4.4.apkŠhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.fanstranslations.png"1.4(21.4.4B?ùºãÔªá“¶.Fans Translationsen"https://fanstranslations.com
 †
 Tsundoku: Fenrirealm0eu.kanade.tachiyomi.novelextension.en.fenrirealmù
-phttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.fenrirealm-v1.4.8.apk„https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.fenrirealm.png"1.4(21.4.8B2„ï¢•Ÿ½Ž¼	
+phttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.fenrirealm-v1.4.9.apk„https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.fenrirealm.png"1.4(	21.4.9B2„ï¢•Ÿ½Ž¼	
 Fenrirealmen"https://fenrirealm.com
 Ž
 Tsundoku: Fiction Zone1eu.kanade.tachiyomi.novelextension.en.fictionzoneû
