@@ -769,6 +769,25 @@
         ]
       },
       {
+        "name": "Tsundoku: GenesisStudio",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.genesisstudio",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.genesisstudio-v1.4.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.genesisstudio.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "sources": [
+          {
+            "id": "8503963922947879196",
+            "name": "GenesisStudio",
+            "language": "en",
+            "homeUrl": "https://genesistudio.com"
+          }
+        ]
+      },
+      {
         "name": "Tsundoku: Hiraeth Translation",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.hireaththranslation",
         "resources": {
@@ -960,6 +979,25 @@
         ]
       },
       {
+        "name": "Tsundoku: LeafStudio",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.leafstudio",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.leafstudio-v1.4.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.leafstudio.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "sources": [
+          {
+            "id": "1363176977577976580",
+            "name": "LeafStudio",
+            "language": "en",
+            "homeUrl": "https://leafstudio.site"
+          }
+        ]
+      },
+      {
         "name": "Tsundoku: LibRead",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.libread",
         "resources": {
@@ -1070,6 +1108,25 @@
             "name": "LnCrawler",
             "language": "all",
             "homeUrl": "https://lncrawler.monster"
+          }
+        ]
+      },
+      {
+        "name": "Tsundoku: LNMTL",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.lnmtl",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.lnmtl-v1.4.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.lnmtl.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "sources": [
+          {
+            "id": "5475081638229100683",
+            "name": "LNMTL",
+            "language": "en",
+            "homeUrl": "https://lnmtl.com"
           }
         ]
       },
@@ -2268,6 +2325,25 @@
             "name": "Wuxia Space",
             "language": "en",
             "homeUrl": "https://www.wuxiaspot.com"
+          }
+        ]
+      },
+      {
+        "name": "Tsundoku: WuxiaWorldEU",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.wuxiaworldeu",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.wuxiaworldeu-v1.4.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.wuxiaworldeu.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "sources": [
+          {
+            "id": "2133254182037727506",
+            "name": "WuxiaWorldEU",
+            "language": "en",
+            "homeUrl": "https://www.wuxiaworld.eu"
           }
         ]
       },
