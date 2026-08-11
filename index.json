@@ -334,12 +334,12 @@
         "name": "Tsundoku: AllNovel",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.allnovel",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.allnovel-v1.4.11.apk",
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.allnovel-v1.4.12.apk",
           "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.allnovel.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "11",
-        "versionName": "1.4.11",
+        "versionCode": "12",
+        "versionName": "1.4.12",
         "sources": [
           {
             "id": "4368737766418014452",
@@ -353,12 +353,12 @@
         "name": "Tsundoku: AllNovelFull",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.allnovelfull",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.allnovelfull-v1.4.11.apk",
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.allnovelfull-v1.4.12.apk",
           "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.allnovelfull.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "11",
-        "versionName": "1.4.11",
+        "versionCode": "12",
+        "versionName": "1.4.12",
         "sources": [
           {
             "id": "3273374795580060030",
@@ -753,12 +753,12 @@
         "name": "Tsundoku: FreeWebNovel",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.freewebnovel",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.freewebnovel-v1.4.12.apk",
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.freewebnovel-v1.4.14.apk",
           "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.freewebnovel.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "12",
-        "versionName": "1.4.12",
+        "versionCode": "14",
+        "versionName": "1.4.14",
         "sources": [
           {
             "id": "3970612267773145070",
@@ -1020,12 +1020,12 @@
         "name": "Tsundoku: LibRead",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.libread",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.libread-v1.4.12.apk",
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.libread-v1.4.14.apk",
           "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.libread.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "12",
-        "versionName": "1.4.12",
+        "versionCode": "14",
+        "versionName": "1.4.14",
         "sources": [
           {
             "id": "560439935624956734",
@@ -1058,12 +1058,12 @@
         "name": "Tsundoku: LightNovelPlus",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.lightnovelplus",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.lightnovelplus-v1.4.10.apk",
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.lightnovelplus-v1.4.11.apk",
           "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.lightnovelplus.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "10",
-        "versionName": "1.4.10",
+        "versionCode": "11",
+        "versionName": "1.4.11",
         "sources": [
           {
             "id": "3371927134342125349",
@@ -1458,12 +1458,12 @@
         "name": "Tsundoku: NovelFull",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.novelfull",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.novelfull-v1.4.10.apk",
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.novelfull-v1.4.11.apk",
           "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.novelfull.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "10",
-        "versionName": "1.4.10",
+        "versionCode": "11",
+        "versionName": "1.4.11",
         "sources": [
           {
             "id": "1811616907726599068",
@@ -1508,25 +1508,6 @@
             "name": "NovelHi",
             "language": "en",
             "homeUrl": "https://novelhi.com"
-          }
-        ]
-      },
-      {
-        "name": "Tsundoku: NovelHub",
-        "packageName": "eu.kanade.tachiyomi.novelextension.en.novelhub",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.novelhub-v1.4.3.apk",
-          "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.novelhub.png"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "3",
-        "versionName": "1.4.3",
-        "sources": [
-          {
-            "id": "1467683788478846874",
-            "name": "NovelHub",
-            "language": "en",
-            "homeUrl": "https://novelhub.net"
           }
         ]
       },
@@ -1591,12 +1572,12 @@
         "name": "Tsundoku: NovelLive",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.novellive",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.novellive-v1.4.9.apk",
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.novellive-v1.4.10.apk",
           "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.novellive.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "9",
-        "versionName": "1.4.9",
+        "versionCode": "10",
+        "versionName": "1.4.10",
         "sources": [
           {
             "id": "2137700184007023421",
@@ -1800,12 +1781,12 @@
         "name": "Tsundoku: ReadNovelFull",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.readnovelfull",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.readnovelfull-v1.4.10.apk",
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.readnovelfull-v1.4.11.apk",
           "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.readnovelfull.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "10",
-        "versionName": "1.4.10",
+        "versionCode": "11",
+        "versionName": "1.4.11",
         "sources": [
           {
             "id": "2528364313208007455",
