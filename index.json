@@ -692,6 +692,25 @@
         ]
       },
       {
+        "name": "Tsundoku: FlameComics",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.flamecomics",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.flamecomics-v1.4.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.flamecomics.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "sources": [
+          {
+            "id": "7770458229220910108",
+            "name": "FlameComics",
+            "language": "en",
+            "homeUrl": "https://flamecomics.xyz"
+          }
+        ]
+      },
+      {
         "name": "Tsundoku: Foxaholic",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.foxaholic",
         "resources": {
@@ -1184,25 +1203,6 @@
             "name": "MtlBooks",
             "language": "en",
             "homeUrl": "https://mtlbooks.com"
-          }
-        ]
-      },
-      {
-        "name": "Tsundoku: MTL Reader",
-        "packageName": "eu.kanade.tachiyomi.novelextension.en.mtlreader",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.mtlreader-v1.4.1.apk",
-          "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.mtlreader.png"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "1",
-        "versionName": "1.4.1",
-        "sources": [
-          {
-            "id": "3720656772375981890",
-            "name": "MTL Reader",
-            "language": "en",
-            "homeUrl": "https://mtlreader.com"
           }
         ]
       },
@@ -2275,17 +2275,17 @@
         "name": "Tsundoku: WuxiaClick",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.wuxiaclick",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.wuxiaclick-v1.4.4.apk",
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.wuxiaclick-v1.4.5.apk",
           "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.wuxiaclick.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "4",
-        "versionName": "1.4.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
         "sources": [
           {
             "id": "4007327599712723254",
             "name": "WuxiaClick",
-            "language": "all",
+            "language": "en",
             "homeUrl": "https://wuxia.click"
           }
         ]
