@@ -40,7 +40,7 @@ thttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/
 qhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.rewayahfans-v1.4.2.apk…https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.rewayahfans.png"1.4(21.4.2B5ÙĞéœÑÄİÖ,Rewayah Fansar"https://rewayahfans.net
 ‹
 Tsundoku: Rewayat Club1eu.kanade.tachiyomi.novelextension.ar.rewayatclubû
-qhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.rewayatclub-v1.4.3.apk…https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.rewayatclub.png"1.4(21.4.3B2­øºâ—”½yRewayat Clubar"https://rewayat.club
+qhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.rewayatclub-v1.4.4.apk…https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.rewayatclub.png"1.4(21.4.4B2­øºâ—”½yRewayat Clubar"https://rewayat.club
 
 Tsundoku: Rewayat Fans1eu.kanade.tachiyomi.novelextension.ar.rewayatfansû
 qhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.rewayatfans-v1.4.2.apk…https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.rewayatfans.png"1.4(21.4.2B5  °Ö¢‰òtRewayat Fansar"https://rewayatfans.com
