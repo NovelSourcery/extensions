@@ -21,7 +21,7 @@ rhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/
 phttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.goldenrest-v1.4.3.apk„https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.goldenrest.png"1.4(21.4.3B0ìù¿ø›‡ÿõ/Golden Restar"https://golden.rest
 €
 Tsundoku: HizoManga/eu.kanade.tachiyomi.novelextension.ar.hizomanga÷
-ohttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.hizomanga-v1.4.5.apkƒhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.hizomanga.png"1.4(21.4.5B0Ã—×ž÷Óóå-	HizoMangaar"https://hizomanga.net
+ohttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.hizomanga-v1.4.6.apkƒhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.hizomanga.png"1.4(21.4.6B0Ã—×ž÷Óóå-	HizoMangaar"https://hizomanga.net
 ü
 Tsundoku: Kol Novel.eu.kanade.tachiyomi.novelextension.ar.kolnovelõ
 nhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.kolnovel-v1.4.4.apk‚https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.kolnovel.png"1.4(21.4.4B/íðé¦¿›Ì»;	Kol Novelar"https://kolnovel.com

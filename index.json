@@ -125,12 +125,12 @@
         "name": "Tsundoku: HizoManga",
         "packageName": "eu.kanade.tachiyomi.novelextension.ar.hizomanga",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.hizomanga-v1.4.5.apk",
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.hizomanga-v1.4.6.apk",
           "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.hizomanga.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "5",
-        "versionName": "1.4.5",
+        "versionCode": "6",
+        "versionName": "1.4.6",
         "sources": [
           {
             "id": "3299958336217533379",
