@@ -1,15 +1,15 @@
 
 NovelSourceryNS@4281820d4866bb71bed3dec5224aad9cf4633d44a113682cfb0c3b1cfd71702d"@
-https://novelsourcery.github.iohttps://discord.gg/JG2K2jTjd6ªìÃ
+https://novelsourcery.github.iohttps://discord.gg/JG2K2jTjd6ªëÃ
 ã
 Tsundoku: Calibre.eu.kanade.tachiyomi.novelextension.all.calibreõ
 nhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-all.calibre-v1.4.1.apk‚https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.all.calibre.png"1.4(21.4.1Bí¤•ğ×ü¼¢?Calibreall
 ò
 Tsundoku: ArNovel-eu.kanade.tachiyomi.novelextension.ar.arnoveló
 mhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.arnovel-v1.4.5.apkhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.arnovel.png"1.4(21.4.5B*‚ÑÇÇ›ŒÛ-ArNovelar"https://ar-no.com
-ë
+ê
 Tsundoku: Azora+eu.kanade.tachiyomi.novelextension.ar.azoraî
-khttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.azora-v1.4.5.apkhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.azora.png"1.4(21.4.5B,µ„÷Ü·Ñ—™1Azoraar"https://azoramoon.com
+khttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.azora-v1.4.3.apkhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.azora.png"1.4(21.4.3B+µ„÷Ü·Ñ—™1Azoraar"https://azorafly.com
 —
 Tsundoku: Free Kol Novel2eu.kanade.tachiyomi.novelextension.ar.freekolnovelı
 rhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.freekolnovel-v1.4.4.apk†https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.freekolnovel.png"1.4(21.4.4B9Ü©¦’ËùÇšFree Kol Novelar"https://free.kolnovel.com
@@ -40,7 +40,7 @@ thttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/
 qhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.rewayahfans-v1.4.2.apk…https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.rewayahfans.png"1.4(21.4.2B5ÙĞéœÑÄİÖ,Rewayah Fansar"https://rewayahfans.net
 ‹
 Tsundoku: Rewayat Club1eu.kanade.tachiyomi.novelextension.ar.rewayatclubû
-qhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.rewayatclub-v1.4.4.apk…https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.rewayatclub.png"1.4(21.4.4B2­øºâ—”½yRewayat Clubar"https://rewayat.club
+qhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.rewayatclub-v1.4.5.apk…https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.rewayatclub.png"1.4(21.4.5B2­øºâ—”½yRewayat Clubar"https://rewayat.club
 
 Tsundoku: Rewayat Fans1eu.kanade.tachiyomi.novelextension.ar.rewayatfansû
 qhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.rewayatfans-v1.4.2.apk…https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.rewayatfans.png"1.4(21.4.2B5  °Ö¢‰òtRewayat Fansar"https://rewayatfans.com
@@ -49,7 +49,7 @@ qhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/
 lhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.riwyat-v1.4.7.apk€https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.riwyat.png"1.4(21.4.7B*™¢­‡Â³¤6Riwyatar"https://cenele.com
 ú
 Tsundoku: SeaNovel.eu.kanade.tachiyomi.novelextension.ar.seanovelõ
-nhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.seanovel-v1.4.3.apk‚https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.seanovel.png"1.4(21.4.3B.¶õÁÁùøÂ¯nSeaNovelar"https://seanovel.org
+nhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.seanovel-v1.4.4.apk‚https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.seanovel.png"1.4(21.4.4B.¶õÁÁùøÂ¯nSeaNovelar"https://seanovel.org
 ú
 Tsundoku: Sunovels.eu.kanade.tachiyomi.novelextension.ar.sunovelsõ
 nhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.sunovels-v1.4.2.apk‚https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.sunovels.png"1.4(21.4.2B.øîÕä¥÷¦º@Sunovelsar"https://sunovels.com
