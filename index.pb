@@ -18,7 +18,7 @@ rhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/
 rhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.galaxynovels-v1.4.3.apk†https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.galaxynovels.png"1.4(21.4.3B7›†èòˆ¿Å‹1Galaxy Novelsar"https://galaxynovels.com
 …
 Tsundoku: Golden Rest0eu.kanade.tachiyomi.novelextension.ar.goldenrestù
-phttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.goldenrest-v1.4.3.apk„https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.goldenrest.png"1.4(21.4.3B0ìù¿ø›‡ÿõ/Golden Restar"https://golden.rest
+phttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.goldenrest-v1.4.4.apk„https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.goldenrest.png"1.4(21.4.4B0ìù¿ø›‡ÿõ/Golden Restar"https://golden.rest
 €
 Tsundoku: HizoManga/eu.kanade.tachiyomi.novelextension.ar.hizomanga÷
 ohttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.hizomanga-v1.4.6.apkƒhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.hizomanga.png"1.4(21.4.6B0Ã—×ž÷Óóå-	HizoMangaar"https://hizomanga.net

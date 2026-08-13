@@ -106,12 +106,12 @@
         "name": "Tsundoku: Golden Rest",
         "packageName": "eu.kanade.tachiyomi.novelextension.ar.goldenrest",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.goldenrest-v1.4.3.apk",
+          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.goldenrest-v1.4.4.apk",
           "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.goldenrest.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "3",
-        "versionName": "1.4.3",
+        "versionCode": "4",
+        "versionName": "1.4.4",
         "sources": [
           {
             "id": "3453130864258448620",
