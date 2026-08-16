@@ -9,7 +9,7 @@ nhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/
 mhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.arnovel-v1.4.5.apkÅhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.arnovel.png"1.4(21.4.5B*Ç—««Åõå€-ArNovelar"https://ar-no.com
 Í
 Tsundoku: Azora+eu.kanade.tachiyomi.novelextension.ar.azoraÓ
-khttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.azora-v1.4.3.apkhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.azora.png"1.4(21.4.3B+µÑ˜‹∑—óô1Azoraar"https://azorafly.com
+khttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.azora-v1.4.4.apkhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.azora.png"1.4(21.4.4B+µÑ˜‹∑—óô1Azoraar"https://azorafly.com
 ó
 Tsundoku: Free Kol Novel2eu.kanade.tachiyomi.novelextension.ar.freekolnovel˝
 rhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.freekolnovel-v1.4.4.apkÜhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.freekolnovel.png"1.4(21.4.4B9‹©¶íÀ˘«öFree Kol Novelar"https://free.kolnovel.com
@@ -43,7 +43,7 @@ qhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/
 qhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.rewayatclub-v1.4.5.apkÖhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.rewayatclub.png"1.4(21.4.5B2≠¯é∫‚óîΩyRewayat Clubar"https://rewayat.club
 é
 Tsundoku: Rewayat Fans1eu.kanade.tachiyomi.novelextension.ar.rewayatfans˚
-qhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.rewayatfans-v1.4.2.apkÖhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.rewayatfans.png"1.4(21.4.2B5†ç†∞÷¢âÚtRewayat Fansar"https://rewayatfans.com
+qhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.rewayatfans-v1.4.3.apkÖhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.rewayatfans.png"1.4(21.4.3B5†ç†∞÷¢âÚtRewayat Fansar"https://rewayatfans.com
 Ó
 Tsundoku: Riwyat,eu.kanade.tachiyomi.novelextension.ar.riwyatÒ
 lhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-ar.riwyat-v1.4.7.apkÄhttps://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.ar.riwyat.png"1.4(21.4.7B*ô¢≠áè¬≥§6Riwyatar"https://cenele.com
