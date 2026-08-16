@@ -733,25 +733,6 @@
         "isNovel": true
       },
       {
-        "name": "Tsundoku: Fans Translations",
-        "packageName": "eu.kanade.tachiyomi.novelextension.en.fanstranslations",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.fanstranslations-v1.4.4.apk",
-          "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.fanstranslations.png"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "4",
-        "versionName": "1.4.4",
-        "sources": [
-          {
-            "id": "3345135530459848057",
-            "name": "Fans Translations",
-            "language": "en",
-            "homeUrl": "https://fanstranslations.com"
-          }
-        ]
-      },
-      {
         "name": "Fenrirealm",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.fenrirealm",
         "resources": {
@@ -992,25 +973,6 @@
           }
         ],
         "isNovel": true
-      },
-      {
-        "name": "Tsundoku: Ippo Translation",
-        "packageName": "eu.kanade.tachiyomi.novelextension.en.ippotranslation",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.ippotranslation-v1.4.3.apk",
-          "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.ippotranslation.png"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "3",
-        "versionName": "1.4.3",
-        "sources": [
-          {
-            "id": "4068671413831105556",
-            "name": "Ippo Translation",
-            "language": "en",
-            "homeUrl": "https://ippotranslations.com"
-          }
-        ]
       },
       {
         "name": "KatReadingCafe",
@@ -1497,25 +1459,6 @@
         "isNovel": true
       },
       {
-        "name": "Tsundoku: Novelable",
-        "packageName": "eu.kanade.tachiyomi.novelextension.en.novelable",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.novelable-v1.4.2.apk",
-          "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.novelable.png"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "2",
-        "versionName": "1.4.2",
-        "sources": [
-          {
-            "id": "7841103058437562824",
-            "name": "Novelable",
-            "language": "en",
-            "homeUrl": "https://novelable.com"
-          }
-        ]
-      },
-      {
         "name": "Novel Archive",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.novelarchive",
         "resources": {
@@ -1558,25 +1501,6 @@
           }
         ],
         "isNovel": true
-      },
-      {
-        "name": "Tsundoku: NovelBin",
-        "packageName": "eu.kanade.tachiyomi.novelextension.en.novelbin",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.novelbin-v1.4.11.apk",
-          "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.novelbin.png"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "11",
-        "versionName": "1.4.11",
-        "sources": [
-          {
-            "id": "1876355330276701201",
-            "name": "NovelBin",
-            "language": "en",
-            "homeUrl": "https://novelbin.com"
-          }
-        ]
       },
       {
         "name": "NovelBuddy",
@@ -1821,25 +1745,6 @@
         "isNovel": true
       },
       {
-        "name": "Tsundoku: NovelMultiverse",
-        "packageName": "eu.kanade.tachiyomi.novelextension.en.novelmultiverse",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.novelmultiverse-v1.4.4.apk",
-          "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.novelmultiverse.png"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "4",
-        "versionName": "1.4.4",
-        "sources": [
-          {
-            "id": "7362702157956218287",
-            "name": "NovelMultiverse",
-            "language": "en",
-            "homeUrl": "https://novelmultiverse.com"
-          }
-        ]
-      },
-      {
         "name": "NovelNinja",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.novelninja",
         "resources": {
@@ -1860,25 +1765,6 @@
           }
         ],
         "isNovel": true
-      },
-      {
-        "name": "Tsundoku: Novels Knight",
-        "packageName": "eu.kanade.tachiyomi.novelextension.en.novelsknight",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.novelsknight-v1.4.3.apk",
-          "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.novelsknight.png"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "3",
-        "versionName": "1.4.3",
-        "sources": [
-          {
-            "id": "7859646818628187014",
-            "name": "Novels Knight",
-            "language": "en",
-            "homeUrl": "https://novelsknight.punchmanga.online"
-          }
-        ]
       },
       {
         "name": "Novel Updates",
@@ -2385,25 +2271,6 @@
           }
         ],
         "isNovel": true
-      },
-      {
-        "name": "Tsundoku: Vynovel",
-        "packageName": "eu.kanade.tachiyomi.novelextension.en.vynovel",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/apk/tsundoku-en.vynovel-v1.4.2.apk",
-          "iconUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.novelextension.en.vynovel.png"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "2",
-        "versionName": "1.4.2",
-        "sources": [
-          {
-            "id": "4715460098585265844",
-            "name": "Vynovel",
-            "language": "en",
-            "homeUrl": "https://vynovel.com"
-          }
-        ]
       },
       {
         "name": "Wattpad",
