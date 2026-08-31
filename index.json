@@ -31,6 +31,28 @@
         "isNovel": true
       },
       {
+        "name": "Quotev",
+        "packageName": "eu.kanade.tachiyomi.novelextension.all.quotev",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tachiyomi-all.quotev-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/all/quotev/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tachiyomi-all.quotev-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "8489932913922741238",
+            "name": "Quotev",
+            "language": "all",
+            "homeUrl": "https://www.quotev.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
         "name": "ArNovel",
         "packageName": "eu.kanade.tachiyomi.novelextension.ar.arnovel",
         "resources": {
