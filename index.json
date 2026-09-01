@@ -449,6 +449,28 @@
         "isNovel": true
       },
       {
+        "name": "BotiTranslation",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.botitranslation",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tachiyomi-en.botitranslation-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/botitranslation/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tachiyomi-en.botitranslation-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "4248673622710670320",
+            "name": "Boti Translation",
+            "language": "en",
+            "homeUrl": "https://botitranslation.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
         "name": "BoxNovel",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.boxnovel",
         "resources": {
@@ -532,6 +554,28 @@
             "name": "Crimson Scrolls",
             "language": "en",
             "homeUrl": "https://crimsonscrolls.net"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Cyrisia",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.cyrisia",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tachiyomi-en.cyrisia-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/cyrisia/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tachiyomi-en.cyrisia-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "6453616087790682125",
+            "name": "Cyrisia",
+            "language": "en",
+            "homeUrl": "https://cyrisia.com"
           }
         ],
         "isNovel": true
@@ -889,6 +933,28 @@
         "isNovel": true
       },
       {
+        "name": "Greenz",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.greenz",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tachiyomi-en.greenz-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/greenz/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tachiyomi-en.greenz-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "127872522921278502",
+            "name": "Greenz",
+            "language": "en",
+            "homeUrl": "https://greenz.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
         "name": "Hiraeth Translation",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.hireaththranslation",
         "resources": {
@@ -928,6 +994,28 @@
             "name": "Honeyfeed",
             "language": "en",
             "homeUrl": "https://www.honeyfeed.fm"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "IndraTranslations",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.indratranslations",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tachiyomi-en.indratranslations-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/indratranslations/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tachiyomi-en.indratranslations-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "9131313116168543566",
+            "name": "Indra Translations",
+            "language": "en",
+            "homeUrl": "https://indratranslations.com"
           }
         ],
         "isNovel": true
@@ -1351,6 +1439,28 @@
         "isNovel": true
       },
       {
+        "name": "NoBadNovel",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.nobadnovel",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tachiyomi-en.nobadnovel-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/nobadnovel/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tachiyomi-en.nobadnovel-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "4474099951143416111",
+            "name": "NoBadNovel",
+            "language": "en",
+            "homeUrl": "https://www.nobadnovel.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
         "name": "NoiceTranslations",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.noicetranslations",
         "resources": {
@@ -1703,6 +1813,28 @@
         "isNovel": true
       },
       {
+        "name": "NovelsPl",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.novelspl",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tachiyomi-en.novelspl-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/novelspl/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tachiyomi-en.novelspl-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7978888816290100266",
+            "name": "Novels.pl",
+            "language": "en",
+            "homeUrl": "https://www.novels.pl"
+          }
+        ],
+        "isNovel": true
+      },
+      {
         "name": "Novel Updates",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.novelupdates",
         "resources": {
@@ -1720,6 +1852,28 @@
             "name": "Novel Updates",
             "language": "en",
             "homeUrl": "https://www.novelupdates.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "OpenQuill",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.openquill",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tachiyomi-en.openquill-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/openquill/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tachiyomi-en.openquill-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "3615869547183672475",
+            "name": "OpenQuill",
+            "language": "en",
+            "homeUrl": "https://openquill.net"
           }
         ],
         "isNovel": true
@@ -2693,6 +2847,28 @@
         "isNovel": true
       },
       {
+        "name": "Kakuyomu",
+        "packageName": "eu.kanade.tachiyomi.novelextension.jp.kakuyomu",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tachiyomi-jp.kakuyomu-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/jp/kakuyomu/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tachiyomi-jp.kakuyomu-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7714382145335826045",
+            "name": "Kakuyomu",
+            "language": "ja",
+            "homeUrl": "https://kakuyomu.jp"
+          }
+        ],
+        "isNovel": true
+      },
+      {
         "name": "\u5c0f\u8aac\u5bb6\u306b\u306a\u308d\u3046",
         "packageName": "eu.kanade.tachiyomi.novelextension.jp.syosetu",
         "resources": {
@@ -3018,6 +3194,28 @@
             "name": "WebNovelOku",
             "language": "tr",
             "homeUrl": "https://www.webnoveloku.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Qimao",
+        "packageName": "eu.kanade.tachiyomi.novelextension.zh.qimao",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tachiyomi-zh.qimao-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/zh/qimao/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tachiyomi-zh.qimao-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6731909813008954249",
+            "name": "Qimao",
+            "language": "zh",
+            "homeUrl": "https://www.qimao.com"
           }
         ],
         "isNovel": true
