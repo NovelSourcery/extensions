@@ -53,6 +53,64 @@
         "isNovel": true
       },
       {
+        "name": "WTR-LAB",
+        "packageName": "eu.kanade.tachiyomi.novelextension.all.wtrlab",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tachiyomi-all.wtrlab-v1.6.12.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/all/wtrlab/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tachiyomi-all.wtrlab-v1.6.12.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "12",
+        "versionName": "1.6.12",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "113591650919252840",
+            "name": "WTR-LAB",
+            "language": "en",
+            "homeUrl": "https://wtr-lab.com"
+          },
+          {
+            "id": "8994073871195401486",
+            "name": "WTR-LAB",
+            "language": "tr",
+            "homeUrl": "https://wtr-lab.com"
+          },
+          {
+            "id": "5854243580001489985",
+            "name": "WTR-LAB",
+            "language": "es",
+            "homeUrl": "https://wtr-lab.com"
+          },
+          {
+            "id": "2009405646911775851",
+            "name": "WTR-LAB",
+            "language": "id",
+            "homeUrl": "https://wtr-lab.com"
+          },
+          {
+            "id": "651176901508845606",
+            "name": "WTR-LAB",
+            "language": "pt",
+            "homeUrl": "https://wtr-lab.com"
+          },
+          {
+            "id": "8757079265193386725",
+            "name": "WTR-LAB",
+            "language": "th",
+            "homeUrl": "https://wtr-lab.com"
+          },
+          {
+            "id": "5889046008820034817",
+            "name": "WTR-LAB",
+            "language": "ru",
+            "homeUrl": "https://wtr-lab.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
         "name": "ArNovel",
         "packageName": "eu.kanade.tachiyomi.novelextension.ar.arnovel",
         "resources": {
@@ -2468,28 +2526,6 @@
             "name": "WordExcerpt",
             "language": "en",
             "homeUrl": "https://wordexcerpt.com"
-          }
-        ],
-        "isNovel": true
-      },
-      {
-        "name": "WTR-LAB",
-        "packageName": "eu.kanade.tachiyomi.novelextension.en.wtrlab",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tachiyomi-en.wtrlab-v1.6.11.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/wtrlab/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tachiyomi-en.wtrlab-v1.6.11.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "11",
-        "versionName": "1.6.11",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "113591650919252840",
-            "name": "WTR-LAB",
-            "language": "en",
-            "homeUrl": "https://wtr-lab.com"
           }
         ],
         "isNovel": true
