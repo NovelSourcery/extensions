@@ -2424,13 +2424,13 @@
         "name": "Webnovel Novels",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.webnovel",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tachiyomi-en.webnovel-v1.6.7.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tachiyomi-en.webnovel-v1.6.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/webnovel/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tachiyomi-en.webnovel-v1.6.7.jar"
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tachiyomi-en.webnovel-v1.6.8.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "7",
-        "versionName": "1.6.7",
+        "versionCode": "8",
+        "versionName": "1.6.8",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
