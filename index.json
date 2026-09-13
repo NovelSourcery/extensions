@@ -265,6 +265,28 @@
         "isNovel": true
       },
       {
+        "name": "Mknov",
+        "packageName": "eu.kanade.tachiyomi.novelextension.ar.mknov",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tachiyomi-ar.mknov-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/ar/mknov/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tachiyomi-ar.mknov-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6954602463131438295",
+            "name": "Mknov",
+            "language": "ar",
+            "homeUrl": "https://mknov.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
         "name": "Novel Arab",
         "packageName": "eu.kanade.tachiyomi.novelextension.ar.novelarab",
         "resources": {
@@ -304,6 +326,28 @@
             "name": "NovelsParadise",
             "language": "ar",
             "homeUrl": "https://novelsparadise.site"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "RealmNovel",
+        "packageName": "eu.kanade.tachiyomi.novelextension.ar.realmnovel",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tachiyomi-ar.realmnovel-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/ar/realmnovel/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tachiyomi-ar.realmnovel-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "9155405429017944360",
+            "name": "RealmNovel",
+            "language": "ar",
+            "homeUrl": "https://realmnovel.com"
           }
         ],
         "isNovel": true
@@ -1896,13 +1940,13 @@
         "name": "Novel Updates",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.novelupdates",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tachiyomi-en.novelupdates-v1.6.14.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tachiyomi-en.novelupdates-v1.6.15.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/novelupdates/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tachiyomi-en.novelupdates-v1.6.14.jar"
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tachiyomi-en.novelupdates-v1.6.15.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "14",
-        "versionName": "1.6.14",
+        "versionCode": "15",
+        "versionName": "1.6.15",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
