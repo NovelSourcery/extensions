@@ -1633,28 +1633,6 @@
         "isNovel": true
       },
       {
-        "name": "NovelArrow",
-        "packageName": "eu.kanade.tachiyomi.novelextension.en.novelarrow",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tachiyomi-en.novelarrow-v1.6.9.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/novelarrow/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tachiyomi-en.novelarrow-v1.6.9.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "9",
-        "versionName": "1.6.9",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "452096882710498296",
-            "name": "NovelArrow",
-            "language": "en",
-            "homeUrl": "https://novelarrow.com"
-          }
-        ],
-        "isNovel": true
-      },
-      {
         "name": "Novel-Bin (net)",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.novelbinnet",
         "resources": {
@@ -1936,6 +1914,28 @@
             "name": "NovelNinja",
             "language": "en",
             "homeUrl": "https://novelninja.xyz"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Novel Ping",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.novelping",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tachiyomi-en.novelping-v1.6.10.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/novelping/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tachiyomi-en.novelping-v1.6.10.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "10",
+        "versionName": "1.6.10",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "452096882710498296",
+            "name": "Novel Ping",
+            "language": "en",
+            "homeUrl": "https://novelping.com"
           }
         ],
         "isNovel": true
