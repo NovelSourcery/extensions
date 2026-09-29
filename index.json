@@ -287,6 +287,28 @@
         "isNovel": true
       },
       {
+        "name": "MTL Arabic",
+        "packageName": "eu.kanade.tachiyomi.novelextension.ar.mtlarabic",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tachiyomi-ar.mtlarabic-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/ar/mtlarabic/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tachiyomi-ar.mtlarabic-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7660416537880578410",
+            "name": "MTL Arabic",
+            "language": "ar",
+            "homeUrl": "https://mtlarabic.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
         "name": "Novel Arab",
         "packageName": "eu.kanade.tachiyomi.novelextension.ar.novelarab",
         "resources": {
