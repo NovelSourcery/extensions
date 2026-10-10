@@ -919,6 +919,16 @@
       "sha256": "754ea4f8aa4be3e3b1f9153e4b66fb7d12971abd9839e43190824bd353670969"
     }
   },
+  "eu.kanade.tachiyomi.novelextension.en.orvreader": {
+    "apk": {
+      "name": "tachiyomi-en.orvreader-v1.6.1.apk",
+      "sha256": "6c61f9b2637093569f40fa351993da2eb5078fe79f197f16f77ac55e570b7dda"
+    },
+    "jar": {
+      "name": "tachiyomi-en.orvreader-v1.6.1.jar",
+      "sha256": "08fa7ec393b572b5cf19cce1b4c0fadeb4fc6a843261794c05c3e22f78188127"
+    }
+  },
   "eu.kanade.tachiyomi.novelextension.en.pasteltales": {
     "apk": {
       "name": "tachiyomi-en.pasteltales-v1.6.11.apk",

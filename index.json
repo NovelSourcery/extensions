@@ -2073,6 +2073,28 @@
         "isNovel": true
       },
       {
+        "name": "ORV Reader",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.orvreader",
+        "resources": {
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/5da29e7/tachiyomi-en.orvreader-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/orvreader/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/5da29e7/tachiyomi-en.orvreader-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7562643313193271445",
+            "name": "ORV Reader",
+            "language": "en",
+            "homeUrl": "https://orv.pages.dev"
+          }
+        ],
+        "isNovel": true
+      },
+      {
         "name": "PastelTales",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.pasteltales",
         "resources": {
