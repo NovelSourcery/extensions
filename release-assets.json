@@ -531,12 +531,12 @@
   },
   "eu.kanade.tachiyomi.novelextension.en.kdtnovels": {
     "apk": {
-      "name": "tachiyomi-en.kdtnovels-v1.6.4.apk",
-      "sha256": "bf0ec1c60276e21b87deaeb67abfb242732a552304b0725df9e0adae13799f68"
+      "name": "tachiyomi-en.kdtnovels-v1.6.5.apk",
+      "sha256": "16b58f06a69f67a18f963501bd687568982b7cb59f83085124e1310486426ed4"
     },
     "jar": {
-      "name": "tachiyomi-en.kdtnovels-v1.6.4.jar",
-      "sha256": "283b192c55554c8944e4346116fe838c7e1db10de0097988dba330f853e4aae8"
+      "name": "tachiyomi-en.kdtnovels-v1.6.5.jar",
+      "sha256": "662d5861923fa915efa9daaa838e81853ad60c3542ce12ac2ede9a33de57dd05"
     }
   },
   "eu.kanade.tachiyomi.novelextension.en.knoxt": {

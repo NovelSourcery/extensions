@@ -1218,14 +1218,14 @@
         "name": "KDT Novels",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.kdtnovels",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-en.kdtnovels-v1.6.4.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/e1c373d/tachiyomi-en.kdtnovels-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/kdtnovels/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-en.kdtnovels-v1.6.4.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/e1c373d/tachiyomi-en.kdtnovels-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
-        "contentWarning": "CONTENT_WARNING_SAFE",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "2404335421118475781",
