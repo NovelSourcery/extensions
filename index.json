@@ -1017,6 +1017,28 @@
         "isNovel": true
       },
       {
+        "name": "FreeGoodNovel",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.freegoodnovel",
+        "resources": {
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/c929d32/tachiyomi-en.freegoodnovel-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/freegoodnovel/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/c929d32/tachiyomi-en.freegoodnovel-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "1845467552959801353",
+            "name": "FreeGoodNovel",
+            "language": "en",
+            "homeUrl": "https://freegoodnovel.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
         "name": "FreeWebNovel",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.freewebnovel",
         "resources": {
@@ -1540,6 +1562,28 @@
             "name": "LulloBox",
             "language": "en",
             "homeUrl": "https://lullobox.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Lunox Scans",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.lunoxscans",
+        "resources": {
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/c929d32/tachiyomi-en.lunoxscans-v1.6.9.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/lunoxscans/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/c929d32/tachiyomi-en.lunoxscans-v1.6.9.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106009",
+        "versionName": "1.6.9",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7447920853423703003",
+            "name": "Lunox Scans",
+            "language": "en",
+            "homeUrl": "https://lunoxscans.com"
           }
         ],
         "isNovel": true
@@ -2134,6 +2178,28 @@
             "name": "Novel Updates",
             "language": "en",
             "homeUrl": "https://www.novelupdates.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Nyx Scans",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.nyxscans",
+        "resources": {
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/c929d32/tachiyomi-en.nyxscans-v1.6.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/nyxscans/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/c929d32/tachiyomi-en.nyxscans-v1.6.2.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "419822582289753882",
+            "name": "Nyx Scans",
+            "language": "en",
+            "homeUrl": "https://nyxscans.com"
           }
         ],
         "isNovel": true

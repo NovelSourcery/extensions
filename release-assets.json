@@ -439,6 +439,16 @@
       "sha256": "a15e3b88252b884f326aa32ff81aa2a431bef0a5db8026167f96760d70d3c7b0"
     }
   },
+  "eu.kanade.tachiyomi.novelextension.en.freegoodnovel": {
+    "apk": {
+      "name": "tachiyomi-en.freegoodnovel-v1.6.1.apk",
+      "sha256": "677b8544cf7665ebf17050846ae17ea692a7e7bb97eab9e40491b2a9c2f936c3"
+    },
+    "jar": {
+      "name": "tachiyomi-en.freegoodnovel-v1.6.1.jar",
+      "sha256": "14f835542b770b504186bd894636cf17b46a1a0c680cbfa8a6ed1d84986d984f"
+    }
+  },
   "eu.kanade.tachiyomi.novelextension.en.freewebnovel": {
     "apk": {
       "name": "tachiyomi-en.freewebnovel-v1.6.20.apk",
@@ -677,6 +687,16 @@
     "jar": {
       "name": "tachiyomi-en.lullobox-v1.6.12.jar",
       "sha256": "7d43ca1bf510f1f5193c4ae0cfe40e012b9590b3a5d63ca0db4e0c5b0c075d22"
+    }
+  },
+  "eu.kanade.tachiyomi.novelextension.en.lunoxscans": {
+    "apk": {
+      "name": "tachiyomi-en.lunoxscans-v1.6.9.apk",
+      "sha256": "beb55e23978e3876271f2d8c89a24cb9a43a021fd140fe9349a5eb31b1abde06"
+    },
+    "jar": {
+      "name": "tachiyomi-en.lunoxscans-v1.6.9.jar",
+      "sha256": "9b8d01d1c2ba9d743f3ad64893940b018877eb79a4323e8bc206d10ebaaafd93"
     }
   },
   "eu.kanade.tachiyomi.novelextension.en.mtlbooks": {
@@ -947,6 +967,16 @@
     "jar": {
       "name": "tachiyomi-en.novelupdates-v1.6.18.jar",
       "sha256": "e096a28e0c5cf7ab59b442b5afbf39bdb770c1ae3fa9cb78a1c7cd4e01883118"
+    }
+  },
+  "eu.kanade.tachiyomi.novelextension.en.nyxscans": {
+    "apk": {
+      "name": "tachiyomi-en.nyxscans-v1.6.2.apk",
+      "sha256": "22e9d1bc1849ca2446ea7fac1e1e80a0629b86796cde9280af78d4d015231b2c"
+    },
+    "jar": {
+      "name": "tachiyomi-en.nyxscans-v1.6.2.jar",
+      "sha256": "7998ed33721fd9d67e1ea15523301e6949fe4e824d27ff03471ed5feb5b74104"
     }
   },
   "eu.kanade.tachiyomi.novelextension.en.openquill": {
