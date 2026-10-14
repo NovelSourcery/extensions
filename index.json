@@ -1105,6 +1105,28 @@
         "isNovel": true
       },
       {
+        "name": "Helio Scans",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.helioscans",
+        "resources": {
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/56c2774/tachiyomi-en.helioscans-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/helioscans/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/56c2774/tachiyomi-en.helioscans-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6607150196856149616",
+            "name": "Helio Scans",
+            "language": "en",
+            "homeUrl": "https://helioscans.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
         "name": "Hiraeth Translation",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.hireaththranslation",
         "resources": {

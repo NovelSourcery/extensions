@@ -479,6 +479,16 @@
       "sha256": "37123a1b9e4047d6c94788a12e14ff289e0d62a6fa7be3fcc15bd8a9fa3030af"
     }
   },
+  "eu.kanade.tachiyomi.novelextension.en.helioscans": {
+    "apk": {
+      "name": "tachiyomi-en.helioscans-v1.6.1.apk",
+      "sha256": "95a894bb5b3fba508bae2642f03552750cd42b1f61fe71b9191a01799ee109ac"
+    },
+    "jar": {
+      "name": "tachiyomi-en.helioscans-v1.6.1.jar",
+      "sha256": "c8e974e18d25a623992d2797007bd825c5c0adc6fa6d692c686a1e2019c7dbd0"
+    }
+  },
   "eu.kanade.tachiyomi.novelextension.en.hireaththranslation": {
     "apk": {
       "name": "tachiyomi-en.hireaththranslation-v1.6.11.apk",
