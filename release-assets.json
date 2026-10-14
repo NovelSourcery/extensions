@@ -879,6 +879,16 @@
       "sha256": "8145c68f8b19ee074420de8ed1543675e82554220a375e46c20bfc39f5f02cec"
     }
   },
+  "eu.kanade.tachiyomi.novelextension.en.novelshaven": {
+    "apk": {
+      "name": "tachiyomi-en.novelshaven-v1.6.1.apk",
+      "sha256": "8f36dad19a946eb2d65b392488b374a9544e39f886a4944e36ba41664534d422"
+    },
+    "jar": {
+      "name": "tachiyomi-en.novelshaven-v1.6.1.jar",
+      "sha256": "61a1559097a25cf00b371185047d9168679def42dd1b053ce691f0a18fc45f36"
+    }
+  },
   "eu.kanade.tachiyomi.novelextension.en.novelsonline": {
     "apk": {
       "name": "tachiyomi-en.novelsonline-v1.6.1.apk",
@@ -961,12 +971,12 @@
   },
   "eu.kanade.tachiyomi.novelextension.en.r18novel": {
     "apk": {
-      "name": "tachiyomi-en.r18novel-v1.6.14.apk",
-      "sha256": "feeac3a67885422d7818c3572c0ef23d7c6ba38ba5ddecc96f55e02c76c6589f"
+      "name": "tachiyomi-en.r18novel-v1.6.15.apk",
+      "sha256": "79eeb7184305f72178b4d84fab2eaa3614c0112a4c5c04357fe05545314b3d2b"
     },
     "jar": {
-      "name": "tachiyomi-en.r18novel-v1.6.14.jar",
-      "sha256": "6ad19421aca3f7788f39f6b2d6b39b3dc40dc568f5d4576108a60411b90d0846"
+      "name": "tachiyomi-en.r18novel-v1.6.15.jar",
+      "sha256": "fdc7a1fed9f55ef5092ae3bb722c0ea705a25691d8802908a0ae2e336db01952"
     }
   },
   "eu.kanade.tachiyomi.novelextension.en.ranobes": {
@@ -997,6 +1007,16 @@
     "jar": {
       "name": "tachiyomi-en.readfromnet-v1.6.7.jar",
       "sha256": "186b6383a70a16f49f33037f51fe4a513f787a7f2728e81c396c565bf75a9d83"
+    }
+  },
+  "eu.kanade.tachiyomi.novelextension.en.readhive": {
+    "apk": {
+      "name": "tachiyomi-en.readhive-v1.6.2.apk",
+      "sha256": "b28ed24b35821ec4a4fc1f743a1fb89175441c31dbeaedbcee74f73279e0d812"
+    },
+    "jar": {
+      "name": "tachiyomi-en.readhive-v1.6.2.jar",
+      "sha256": "e38d27c211bc93e41bedb88c0db219853d0f473631f428e96d0921468f1c063a"
     }
   },
   "eu.kanade.tachiyomi.novelextension.en.readnovelfull": {
@@ -1101,12 +1121,12 @@
   },
   "eu.kanade.tachiyomi.novelextension.en.storyseedling": {
     "apk": {
-      "name": "tachiyomi-en.storyseedling-v1.6.7.apk",
-      "sha256": "45f5ec2dc3053d8da43d695ae870d386c24dbc1746d0eacfdd58dc01af311e7a"
+      "name": "tachiyomi-en.storyseedling-v1.6.8.apk",
+      "sha256": "63788a87a2785fa2901474fd283bd8383d8ae0a7508ee82f219f5475413cb9ed"
     },
     "jar": {
-      "name": "tachiyomi-en.storyseedling-v1.6.7.jar",
-      "sha256": "389988f4317d1aec23214b3d3c55693e687bcfeafaa98fbacbd4fcaa79ed583d"
+      "name": "tachiyomi-en.storyseedling-v1.6.8.jar",
+      "sha256": "8600bc9a197a42c2d2d8d32a7800eb8160e097d1995c41acf1e51161421d3b5c"
     }
   },
   "eu.kanade.tachiyomi.novelextension.en.sufficientvelocity": {

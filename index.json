@@ -1985,6 +1985,28 @@
         "isNovel": true
       },
       {
+        "name": "NovelsHaven",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.novelshaven",
+        "resources": {
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/d68bad7/tachiyomi-en.novelshaven-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/novelshaven/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/d68bad7/tachiyomi-en.novelshaven-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "6523401300551356396",
+            "name": "NovelsHaven",
+            "language": "en",
+            "homeUrl": "https://novelshaven.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
         "name": "NovelsOnline",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.novelsonline",
         "resources": {
@@ -2164,20 +2186,20 @@
         "name": "R18Novel",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.r18novel",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-en.r18novel-v1.6.14.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/d68bad7/tachiyomi-en.r18novel-v1.6.15.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/r18novel/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-en.r18novel-v1.6.14.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/d68bad7/tachiyomi-en.r18novel-v1.6.15.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106014",
-        "versionName": "1.6.14",
+        "versionCode": "106015",
+        "versionName": "1.6.15",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "1609401066996660888",
             "name": "R18Novel",
             "language": "en",
-            "homeUrl": "https://www.r18novel.com"
+            "homeUrl": "https://r18novel.com"
           }
         ],
         "isNovel": true
@@ -2244,6 +2266,28 @@
             "name": "ReadFromNet",
             "language": "en",
             "homeUrl": "https://readfrom.net"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "ReadHive",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.readhive",
+        "resources": {
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/d68bad7/tachiyomi-en.readhive-v1.6.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/readhive/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/d68bad7/tachiyomi-en.readhive-v1.6.2.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7532136459988504364",
+            "name": "ReadHive",
+            "language": "en",
+            "homeUrl": "https://readhive.org"
           }
         ],
         "isNovel": true
@@ -2472,13 +2516,13 @@
         "name": "StorySeedling",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.storyseedling",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-en.storyseedling-v1.6.7.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/d68bad7/tachiyomi-en.storyseedling-v1.6.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/storyseedling/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-en.storyseedling-v1.6.7.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/d68bad7/tachiyomi-en.storyseedling-v1.6.8.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106007",
-        "versionName": "1.6.7",
+        "versionCode": "106008",
+        "versionName": "1.6.8",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
