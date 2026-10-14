@@ -381,12 +381,12 @@
   },
   "eu.kanade.tachiyomi.novelextension.en.fansmtl": {
     "apk": {
-      "name": "tachiyomi-en.fansmtl-v1.6.9.apk",
-      "sha256": "de95c6761aad27ea8baf38fa892473919c18743bee98eff3a160a65d37a879bc"
+      "name": "tachiyomi-en.fansmtl-v1.6.10.apk",
+      "sha256": "80c849472a8e1eab72f482b4f974d9709c27362b3be3343b7ff385b7c0f30efc"
     },
     "jar": {
-      "name": "tachiyomi-en.fansmtl-v1.6.9.jar",
-      "sha256": "d9fef388deaa2c7728bd9a24ef4308c29264f808a4d3a77fa2cebc48009323ab"
+      "name": "tachiyomi-en.fansmtl-v1.6.10.jar",
+      "sha256": "0c9785114dfd4281b6853b511371d08e325192e46396a938710be5b832a1b3b0"
     }
   },
   "eu.kanade.tachiyomi.novelextension.en.fenrirealm": {
@@ -1311,12 +1311,12 @@
   },
   "eu.kanade.tachiyomi.novelextension.en.wuxiabox": {
     "apk": {
-      "name": "tachiyomi-en.wuxiabox-v1.6.9.apk",
-      "sha256": "55716f5c59009d00dce7601e93ee7b416f8a3a40ef58d1376e809e2a07c798ef"
+      "name": "tachiyomi-en.wuxiabox-v1.6.10.apk",
+      "sha256": "bbfdc861b0bb26d4de1a89f177af8b8170d5490aa6374b44e5f879bc7ada0fad"
     },
     "jar": {
-      "name": "tachiyomi-en.wuxiabox-v1.6.9.jar",
-      "sha256": "2bee2a006717d2018f9ed28cf28ad5cda91721a37401fcc41a6508f0d143ef8c"
+      "name": "tachiyomi-en.wuxiabox-v1.6.10.jar",
+      "sha256": "5906e8ef5e0b88224c77aff6ad5804c69e3ded457a05f09710687ff1062661c6"
     }
   },
   "eu.kanade.tachiyomi.novelextension.en.wuxiaclick": {
@@ -1341,12 +1341,12 @@
   },
   "eu.kanade.tachiyomi.novelextension.en.wuxiaspace": {
     "apk": {
-      "name": "tachiyomi-en.wuxiaspace-v1.6.9.apk",
-      "sha256": "f122ae9f561d33ab1930ae5b3ee145fb84b59c8b969b8978a65734a681ea6a01"
+      "name": "tachiyomi-en.wuxiaspace-v1.6.10.apk",
+      "sha256": "21816e29a30f902c392640c1ea1eb7dcf8fd16a9d30f42c845315ae37484fae5"
     },
     "jar": {
-      "name": "tachiyomi-en.wuxiaspace-v1.6.9.jar",
-      "sha256": "7d92031d42f312d0d80ec682e1640fb6af72c4564eeef907ec9a01a585b83fb6"
+      "name": "tachiyomi-en.wuxiaspace-v1.6.10.jar",
+      "sha256": "446f8067803683cd401f2c01ece36a9b268546f8bf0bc9c3fa8c0e6403d8236b"
     }
   },
   "eu.kanade.tachiyomi.novelextension.en.wuxiaworldeu": {

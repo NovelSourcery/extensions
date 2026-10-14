@@ -888,13 +888,13 @@
         "name": "Fans MTL",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.fansmtl",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-en.fansmtl-v1.6.9.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/94d0de5/tachiyomi-en.fansmtl-v1.6.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/fansmtl/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-en.fansmtl-v1.6.9.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/94d0de5/tachiyomi-en.fansmtl-v1.6.10.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106009",
-        "versionName": "1.6.9",
+        "versionCode": "106010",
+        "versionName": "1.6.10",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -2934,13 +2934,13 @@
         "name": "Wuxiabox",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.wuxiabox",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-en.wuxiabox-v1.6.9.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/94d0de5/tachiyomi-en.wuxiabox-v1.6.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/wuxiabox/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-en.wuxiabox-v1.6.9.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/94d0de5/tachiyomi-en.wuxiabox-v1.6.10.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106009",
-        "versionName": "1.6.9",
+        "versionCode": "106010",
+        "versionName": "1.6.10",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -3000,13 +3000,13 @@
         "name": "Wuxia Space",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.wuxiaspace",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-en.wuxiaspace-v1.6.9.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/94d0de5/tachiyomi-en.wuxiaspace-v1.6.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/wuxiaspace/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-en.wuxiaspace-v1.6.9.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/94d0de5/tachiyomi-en.wuxiaspace-v1.6.10.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106009",
-        "versionName": "1.6.9",
+        "versionCode": "106010",
+        "versionName": "1.6.10",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
