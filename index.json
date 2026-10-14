@@ -2318,14 +2318,14 @@
         "name": "Requiem Translations",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.requiemtranslations",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-en.requiemtranslations-v1.6.8.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/cbc3a83/tachiyomi-en.requiemtranslations-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-en.requiemtranslations-v1.6.8.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/cbc3a83/tachiyomi-en.requiemtranslations-v1.6.9.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106008",
-        "versionName": "1.6.8",
-        "contentWarning": "CONTENT_WARNING_SAFE",
+        "versionCode": "106009",
+        "versionName": "1.6.9",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "4229295706597077390",

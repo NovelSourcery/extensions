@@ -1031,12 +1031,12 @@
   },
   "eu.kanade.tachiyomi.novelextension.en.requiemtranslations": {
     "apk": {
-      "name": "tachiyomi-en.requiemtranslations-v1.6.8.apk",
-      "sha256": "e0043ce45d22dd21b615e1485e7419e64c99bc54db0e08b6ba4adebc871dc48a"
+      "name": "tachiyomi-en.requiemtranslations-v1.6.9.apk",
+      "sha256": "4914ef575697d928c17e075db15a22ff7ffd657c9118f731768ea7923da387e7"
     },
     "jar": {
-      "name": "tachiyomi-en.requiemtranslations-v1.6.8.jar",
-      "sha256": "7f42df4e857e39c78950ca4f0e42cd2f932ff17317748ac15dd7a25c124e2259"
+      "name": "tachiyomi-en.requiemtranslations-v1.6.9.jar",
+      "sha256": "7ff6093f71cef87484929879251be2cb8b61db65bbb9b4d08bab93a7828079c8"
     }
   },
   "eu.kanade.tachiyomi.novelextension.en.royalroad": {
