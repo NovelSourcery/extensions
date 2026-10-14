@@ -609,6 +609,16 @@
       "sha256": "c053251536f60b8cadfc6e1921f8a85014f7253d8dbad33f7ec25f1fa846c97e"
     }
   },
+  "eu.kanade.tachiyomi.novelextension.en.lightnovelto": {
+    "apk": {
+      "name": "tachiyomi-en.lightnovelto-v1.6.1.apk",
+      "sha256": "485f0f37f2e3dfe68dfab5225b1ab757556bb7ce58461a79f1605bc79fe84326"
+    },
+    "jar": {
+      "name": "tachiyomi-en.lightnovelto-v1.6.1.jar",
+      "sha256": "3369c124edca2f9a7d4dda71d700b913a03b96f890e691e36e09eb73cc442ba5"
+    }
+  },
   "eu.kanade.tachiyomi.novelextension.en.lightnoveltranslation": {
     "apk": {
       "name": "tachiyomi-en.lightnoveltranslation-v1.6.7.apk",
@@ -1297,6 +1307,16 @@
     "jar": {
       "name": "tachiyomi-en.wuxiaworldsite-v1.6.11.jar",
       "sha256": "b81486d9e3b0e2c6ef06d23f58ae95cb24afb03d934aaa759f2bd0d466d449f0"
+    }
+  },
+  "eu.kanade.tachiyomi.novelextension.en.xnovel": {
+    "apk": {
+      "name": "tachiyomi-en.xnovel-v1.6.1.apk",
+      "sha256": "2fda0873ddef29170ceb31dac3707048c5899d8253d10190f7216412a7005141"
+    },
+    "jar": {
+      "name": "tachiyomi-en.xnovel-v1.6.1.jar",
+      "sha256": "91d618485946a020356f30779bd5e1d584dfdfd09e7ff6eb3fcf036d2a5d055b"
     }
   },
   "eu.kanade.tachiyomi.novelextension.en.zetrotranslation": {

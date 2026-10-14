@@ -1391,6 +1391,28 @@
         "isNovel": true
       },
       {
+        "name": "LightNovel.to",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.lightnovelto",
+        "resources": {
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/e33bc1f/tachiyomi-en.lightnovelto-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/lightnovelto/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/e33bc1f/tachiyomi-en.lightnovelto-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "6732770436635675672",
+            "name": "LightNovel.to",
+            "language": "en",
+            "homeUrl": "https://lightnovel.to"
+          }
+        ],
+        "isNovel": true
+      },
+      {
         "name": "Light Novel Translations",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.lightnoveltranslation",
         "resources": {
@@ -2904,6 +2926,28 @@
             "name": "WuxiaWorld.Site",
             "language": "en",
             "homeUrl": "https://wuxiaworld.site"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "XNovel",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.xnovel",
+        "resources": {
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/e33bc1f/tachiyomi-en.xnovel-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/xnovel/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/e33bc1f/tachiyomi-en.xnovel-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "3810202320511114282",
+            "name": "XNovel",
+            "language": "en",
+            "homeUrl": "https://xnovel.me"
           }
         ],
         "isNovel": true
