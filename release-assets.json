@@ -1099,6 +1099,16 @@
       "sha256": "0ae82af8468180688a8d759af7c250f0c5390109b87c5409bb9fb1cfd9eef551"
     }
   },
+  "eu.kanade.tachiyomi.novelextension.en.sainokantls": {
+    "apk": {
+      "name": "tachiyomi-en.sainokantls-v1.6.1.apk",
+      "sha256": "2e306053395aef1f3faeaae9e627bbcb4ea2fc2c0e7aa1015cd3b4dbb45cc68b"
+    },
+    "jar": {
+      "name": "tachiyomi-en.sainokantls-v1.6.1.jar",
+      "sha256": "de8fe2eb2c29ca3fd6c84b4f98d8b850e7ff5f3f5d78dcec2d51400d55226b87"
+    }
+  },
   "eu.kanade.tachiyomi.novelextension.en.scribblehub": {
     "apk": {
       "name": "tachiyomi-en.scribblehub-v1.6.9.apk",
