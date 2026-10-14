@@ -1963,6 +1963,28 @@
         "isNovel": true
       },
       {
+        "name": "NovelLunar",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.novellunar",
+        "resources": {
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/9fa9e7c/tachiyomi-en.novellunar-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/novellunar/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/9fa9e7c/tachiyomi-en.novellunar-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7890002146655538762",
+            "name": "NovelLunar",
+            "language": "en",
+            "homeUrl": "https://novellunar.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
         "name": "NovelNinja",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.novelninja",
         "resources": {

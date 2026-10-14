@@ -869,6 +869,16 @@
       "sha256": "3ffeb93ec75642885e7b5c98fac5cb084fbf2d7f93cc322ce8499a90741d989d"
     }
   },
+  "eu.kanade.tachiyomi.novelextension.en.novellunar": {
+    "apk": {
+      "name": "tachiyomi-en.novellunar-v1.6.1.apk",
+      "sha256": "a424f358a1f7267662a725fd44bf7a51c35ad59dd1f7600c04a10d13105b646d"
+    },
+    "jar": {
+      "name": "tachiyomi-en.novellunar-v1.6.1.jar",
+      "sha256": "79ee064d585f03c00664acce63c16009db29f723210ef17ebadb7f93e1001bb6"
+    }
+  },
   "eu.kanade.tachiyomi.novelextension.en.novelninja": {
     "apk": {
       "name": "tachiyomi-en.novelninja-v1.6.11.apk",
