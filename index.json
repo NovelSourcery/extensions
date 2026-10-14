@@ -2315,6 +2315,28 @@
         "isNovel": true
       },
       {
+        "name": "Reigokai Translations",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.reigokaitranslations",
+        "resources": {
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/ccc6cad/tachiyomi-en.reigokaitranslations-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/ccc6cad/tachiyomi-en.reigokaitranslations-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2572265147223123087",
+            "name": "Reigokai Translations",
+            "language": "en",
+            "homeUrl": "https://reigokaitranslations.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
         "name": "Requiem Translations",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.requiemtranslations",
         "resources": {

@@ -1029,6 +1029,16 @@
       "sha256": "0d6edc93cf10b3319818f1576af6cb24cbd5a688feb348fcf013fd6e431297fa"
     }
   },
+  "eu.kanade.tachiyomi.novelextension.en.reigokaitranslations": {
+    "apk": {
+      "name": "tachiyomi-en.reigokaitranslations-v1.6.1.apk",
+      "sha256": "f28bb8132d0c274d0270cc6b545bc55b1ec7375bf6103f60702582b599172dab"
+    },
+    "jar": {
+      "name": "tachiyomi-en.reigokaitranslations-v1.6.1.jar",
+      "sha256": "01ed44c31631e0096da1ad211b2126b25137c498f00902af4b05141da4beee59"
+    }
+  },
   "eu.kanade.tachiyomi.novelextension.en.requiemtranslations": {
     "apk": {
       "name": "tachiyomi-en.requiemtranslations-v1.6.9.apk",
