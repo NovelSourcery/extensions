@@ -821,12 +821,12 @@
   },
   "eu.kanade.tachiyomi.novelextension.en.novelfire": {
     "apk": {
-      "name": "tachiyomi-en.novelfire-v1.6.13.apk",
-      "sha256": "3863af668c7b729e2f3b828e3ad2140a23d7fc0a1b43873bd0bcf7a6d5f07e37"
+      "name": "tachiyomi-en.novelfire-v1.6.15.apk",
+      "sha256": "1cf6e1afccc5014a22c4305b640b3cd4edc073ea80a6125a07db9da9d62c7873"
     },
     "jar": {
-      "name": "tachiyomi-en.novelfire-v1.6.13.jar",
-      "sha256": "50a0352ce1a05af8fe2ff2ac65d7003735754fa22df7c4d2344d83f60f42ff54"
+      "name": "tachiyomi-en.novelfire-v1.6.15.jar",
+      "sha256": "d759ad56a60ff85615e3072b2b5b9eae7d49f93edbd501f34a32a50567c06efd"
     }
   },
   "eu.kanade.tachiyomi.novelextension.en.novelfull": {

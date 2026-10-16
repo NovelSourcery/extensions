@@ -1856,13 +1856,13 @@
         "name": "Novel Phoenix",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.novelfire",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-en.novelfire-v1.6.13.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/14663c5/tachiyomi-en.novelfire-v1.6.15.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/novelfire/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-en.novelfire-v1.6.13.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/14663c5/tachiyomi-en.novelfire-v1.6.15.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106013",
-        "versionName": "1.6.13",
+        "versionCode": "106015",
+        "versionName": "1.6.15",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
