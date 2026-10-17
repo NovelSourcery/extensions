@@ -2073,6 +2073,28 @@
         "isNovel": true
       },
       {
+        "name": "NovelPhoenix.net",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.novelphoenixnet",
+        "resources": {
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/d1e6801/tachiyomi-en.novelphoenixnet-v1.6.14.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/novelphoenixnet/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/d1e6801/tachiyomi-en.novelphoenixnet-v1.6.14.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106014",
+        "versionName": "1.6.14",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7557684927149191317",
+            "name": "NovelPhoenix.net",
+            "language": "en",
+            "homeUrl": "https://novelphoenix.net"
+          }
+        ],
+        "isNovel": true
+      },
+      {
         "name": "Novel Ping",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.novelping",
         "resources": {

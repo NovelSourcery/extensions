@@ -919,6 +919,16 @@
       "sha256": "79ba6f92b0ea9d9293f2f116966b2b01c4fbd9560904e346e2b3fcff76e1d471"
     }
   },
+  "eu.kanade.tachiyomi.novelextension.en.novelphoenixnet": {
+    "apk": {
+      "name": "tachiyomi-en.novelphoenixnet-v1.6.14.apk",
+      "sha256": "ad19447c2d492ef535b3422404ffa3485a93a7fcebce942d01884ab2464a9939"
+    },
+    "jar": {
+      "name": "tachiyomi-en.novelphoenixnet-v1.6.14.jar",
+      "sha256": "7d93be6011080428dd1dd54a6c3dcde5ce0c2ce5dbbdca261eedfa0651da6868"
+    }
+  },
   "eu.kanade.tachiyomi.novelextension.en.novelping": {
     "apk": {
       "name": "tachiyomi-en.novelping-v1.6.10.apk",
