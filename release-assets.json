@@ -411,12 +411,12 @@
   },
   "eu.kanade.tachiyomi.novelextension.en.flamecomics": {
     "apk": {
-      "name": "tachiyomi-en.flamecomics-v1.6.5.apk",
-      "sha256": "23aef26d2f87e7255a19b4b66cb29c2f0c508b74c9dfa355e51e531ea73d21c5"
+      "name": "tachiyomi-en.flamecomics-v1.6.6.apk",
+      "sha256": "6c0ff15d0f2958c66412b4e6b3bdaa8cc12aacbcabbfb1ba29fba3a612e7d501"
     },
     "jar": {
-      "name": "tachiyomi-en.flamecomics-v1.6.5.jar",
-      "sha256": "496d53f6a370de8f6129c7a358c51896084b30933c3c75f5416de426edd98ace"
+      "name": "tachiyomi-en.flamecomics-v1.6.6.jar",
+      "sha256": "197f48919e11a2665a095ff7ccdd46676b75fbddbb5cbc7a70f0a4c3efbcff1e"
     }
   },
   "eu.kanade.tachiyomi.novelextension.en.foxaholic": {
