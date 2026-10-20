@@ -31,6 +31,46 @@
         "isNovel": true
       },
       {
+        "name": "LunarX Novels",
+        "packageName": "eu.kanade.tachiyomi.novelextension.all.lunarxnovels",
+        "resources": {
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/7e0ad39/tachiyomi-all.lunarxnovels-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/all/lunarxnovels/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/7e0ad39/tachiyomi-all.lunarxnovels-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "999659755360204236",
+            "name": "LunarX Novels",
+            "language": "all",
+            "homeUrl": "https://lunarx.to"
+          },
+          {
+            "id": "2368100912914050830",
+            "name": "LunarX Novels",
+            "language": "en",
+            "homeUrl": "https://lunarx.to"
+          },
+          {
+            "id": "8715778138842318171",
+            "name": "LunarX Novels",
+            "language": "id",
+            "homeUrl": "https://lunarx.to"
+          },
+          {
+            "id": "6319806307165654577",
+            "name": "LunarX Novels",
+            "language": "tl",
+            "homeUrl": "https://lunarx.to"
+          }
+        ],
+        "isNovel": true
+      },
+      {
         "name": "Quotev",
         "packageName": "eu.kanade.tachiyomi.novelextension.all.quotev",
         "resources": {
@@ -550,6 +590,28 @@
             "name": "AsianNovel",
             "language": "en",
             "homeUrl": "https://www.asianovel.net"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Atsumaru Novels",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.atsumarunovels",
+        "resources": {
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/7e0ad39/tachiyomi-en.atsumarunovels-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/atsumarunovels/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/7e0ad39/tachiyomi-en.atsumarunovels-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "8317991566857278820",
+            "name": "Atsumaru Novels",
+            "language": "en",
+            "homeUrl": "https://atsu.moe"
           }
         ],
         "isNovel": true

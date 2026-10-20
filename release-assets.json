@@ -9,6 +9,16 @@
       "sha256": "ec33e81a4b3b1dfbb639ad2aa9fa168e88328ee02a254da3d539561ecbed4103"
     }
   },
+  "eu.kanade.tachiyomi.novelextension.all.lunarxnovels": {
+    "apk": {
+      "name": "tachiyomi-all.lunarxnovels-v1.6.1.apk",
+      "sha256": "5d0d6e8b8a2b5fd64ee691aef2239b1b9db77f312ce97ddd77bfeafcc8170efa"
+    },
+    "jar": {
+      "name": "tachiyomi-all.lunarxnovels-v1.6.1.jar",
+      "sha256": "1a44f8347f65ef205842bb9dc5866397b958905d7a663691eca577d4a6c56f36"
+    }
+  },
   "eu.kanade.tachiyomi.novelextension.all.quotev": {
     "apk": {
       "name": "tachiyomi-all.quotev-v1.6.1.apk",
@@ -227,6 +237,16 @@
     "jar": {
       "name": "tachiyomi-en.asiannovel-v1.6.8.jar",
       "sha256": "4eed612aa83e376d2d1e86848f0e1d7fb6916c498d8380f58094a6c0474d67ec"
+    }
+  },
+  "eu.kanade.tachiyomi.novelextension.en.atsumarunovels": {
+    "apk": {
+      "name": "tachiyomi-en.atsumarunovels-v1.6.1.apk",
+      "sha256": "9b289793d910cf42ebd1012218e50fd4a260467bd556e4969c1a5be8b4442614"
+    },
+    "jar": {
+      "name": "tachiyomi-en.atsumarunovels-v1.6.1.jar",
+      "sha256": "b40307771cfb97ae8d22549175b72cf5d91390458375a6112b53c0373c4a3c81"
     }
   },
   "eu.kanade.tachiyomi.novelextension.en.bakatsuki": {
