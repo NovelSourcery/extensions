@@ -972,13 +972,13 @@
         "name": "Fenrirealm",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.fenrirealm",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-en.fenrirealm-v1.6.15.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/72d77cf/tachiyomi-en.fenrirealm-v1.6.16.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/fenrirealm/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-en.fenrirealm-v1.6.15.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/72d77cf/tachiyomi-en.fenrirealm-v1.6.16.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106015",
-        "versionName": "1.6.15",
+        "versionCode": "106016",
+        "versionName": "1.6.16",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {

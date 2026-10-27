@@ -411,12 +411,12 @@
   },
   "eu.kanade.tachiyomi.novelextension.en.fenrirealm": {
     "apk": {
-      "name": "tachiyomi-en.fenrirealm-v1.6.15.apk",
-      "sha256": "fd783b16f51a40a4a4ea2a9c70d0843570dc7cf625a3bb783e47e84564d9ad54"
+      "name": "tachiyomi-en.fenrirealm-v1.6.16.apk",
+      "sha256": "4d63f727e2d693f6072f5a4e2938986cbf441486f4886ca32cd464ba7bf41b00"
     },
     "jar": {
-      "name": "tachiyomi-en.fenrirealm-v1.6.15.jar",
-      "sha256": "f6314be3f3ff359d2e2a394bd275460afc592650453c7ab318c9062ebf4b31a4"
+      "name": "tachiyomi-en.fenrirealm-v1.6.16.jar",
+      "sha256": "0056bd6fe37d263e4497f77ad514ce024588ba75dcc8a511b665aec593c032a0"
     }
   },
   "eu.kanade.tachiyomi.novelextension.en.fictionzone": {
