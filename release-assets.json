@@ -771,12 +771,12 @@
   },
   "eu.kanade.tachiyomi.novelextension.en.noicetranslations": {
     "apk": {
-      "name": "tachiyomi-en.noicetranslations-v1.6.11.apk",
-      "sha256": "7a0eab2e3a6e364247bfdcce65e33efbb7dcb6449cc9a43ebc80067f268044b1"
+      "name": "tachiyomi-en.noicetranslations-v1.6.12.apk",
+      "sha256": "9b26a46f4d372b33d2b77b9f44ce69ec5eeb9ffb0ba64128292fe4189f0c716b"
     },
     "jar": {
-      "name": "tachiyomi-en.noicetranslations-v1.6.11.jar",
-      "sha256": "ae4ffe689fbfb6c3e692108fa01e240e43c9c3a23a9b19b88d169f42cb125888"
+      "name": "tachiyomi-en.noicetranslations-v1.6.12.jar",
+      "sha256": "5156a62147352a9bd267f26b1ea45d35efc267643b6d49ddc7580d07ca843f42"
     }
   },
   "eu.kanade.tachiyomi.novelextension.en.novelarchive": {
@@ -991,12 +991,12 @@
   },
   "eu.kanade.tachiyomi.novelextension.en.novelupdates": {
     "apk": {
-      "name": "tachiyomi-en.novelupdates-v1.6.18.apk",
-      "sha256": "8fbeebe303a2858701a04e604b9e786d317d3486c7a830e186d810ca7e58a27d"
+      "name": "tachiyomi-en.novelupdates-v1.6.19.apk",
+      "sha256": "c4891bd5c0a3519ed983d8ed9de270aa6db8dca73659753e11f847ddae6db79f"
     },
     "jar": {
-      "name": "tachiyomi-en.novelupdates-v1.6.18.jar",
-      "sha256": "e096a28e0c5cf7ab59b442b5afbf39bdb770c1ae3fa9cb78a1c7cd4e01883118"
+      "name": "tachiyomi-en.novelupdates-v1.6.19.jar",
+      "sha256": "214fbc82a42fbab5dfe65923d9ad216256698612531ab477825451b6fa82fbe2"
     }
   },
   "eu.kanade.tachiyomi.novelextension.en.nyxscans": {
