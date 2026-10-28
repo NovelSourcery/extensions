@@ -705,6 +705,28 @@
         "isNovel": true
       },
       {
+        "name": "Byte Translations",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.bytetranslations",
+        "resources": {
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/134fb64/tachiyomi-en.bytetranslations-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/bytetranslations/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/134fb64/tachiyomi-en.bytetranslations-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2385203391240346906",
+            "name": "Byte Translations",
+            "language": "en",
+            "homeUrl": "https://bytetranslations.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
         "name": "Chikari",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.chikari",
         "resources": {
@@ -1294,6 +1316,28 @@
             "name": "Inkitt",
             "language": "en",
             "homeUrl": "https://www.inkitt.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "JadeScrolls",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.jadescrolls",
+        "resources": {
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/134fb64/tachiyomi-en.jadescrolls-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/jadescrolls/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/134fb64/tachiyomi-en.jadescrolls-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1080736969515295849",
+            "name": "JadeScrolls",
+            "language": "en",
+            "homeUrl": "https://jadescrolls.com"
           }
         ],
         "isNovel": true

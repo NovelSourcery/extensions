@@ -289,6 +289,16 @@
       "sha256": "7e662d7703d5b575248088ef40a4f8b2558dbc43bd2992c775d3d1d139c1840c"
     }
   },
+  "eu.kanade.tachiyomi.novelextension.en.bytetranslations": {
+    "apk": {
+      "name": "tachiyomi-en.bytetranslations-v1.6.1.apk",
+      "sha256": "8e717042e9a6684db5a7f18938e344871a5c7562b6f44bbce104f3c2bca82757"
+    },
+    "jar": {
+      "name": "tachiyomi-en.bytetranslations-v1.6.1.jar",
+      "sha256": "eff93c47459233a07169a1a39d0854261348ce5e8534b3536e4a8d249b25e60b"
+    }
+  },
   "eu.kanade.tachiyomi.novelextension.en.chikari": {
     "apk": {
       "name": "tachiyomi-en.chikari-v1.6.2.apk",
@@ -557,6 +567,16 @@
     "jar": {
       "name": "tachiyomi-en.inkitt-v1.6.7.jar",
       "sha256": "f906df0b22df7567ee38ee385cc3e694cf368732e0d8733e55cfe189e40b75a6"
+    }
+  },
+  "eu.kanade.tachiyomi.novelextension.en.jadescrolls": {
+    "apk": {
+      "name": "tachiyomi-en.jadescrolls-v1.6.1.apk",
+      "sha256": "4b7a8ae62966536332cd7ed00e75a6bf1b5b99f6d96c1969adb8a8f1d22ca400"
+    },
+    "jar": {
+      "name": "tachiyomi-en.jadescrolls-v1.6.1.jar",
+      "sha256": "19149dffae738b71056ca033d13e20137287176978a5e56ba2a8096682b9f872"
     }
   },
   "eu.kanade.tachiyomi.novelextension.en.katreadingcafe": {
