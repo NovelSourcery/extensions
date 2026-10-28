@@ -1126,13 +1126,13 @@
         "name": "FreeWebNovel",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.freewebnovel",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/b3c9246/tachiyomi-en.freewebnovel-v1.6.21.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/d31198f/tachiyomi-en.freewebnovel-v1.6.22.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/freewebnovel/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/b3c9246/tachiyomi-en.freewebnovel-v1.6.21.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/d31198f/tachiyomi-en.freewebnovel-v1.6.22.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106021",
-        "versionName": "1.6.21",
+        "versionCode": "106022",
+        "versionName": "1.6.22",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
