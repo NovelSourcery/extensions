@@ -1104,13 +1104,13 @@
         "name": "FreeWebNovel",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.freewebnovel",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-en.freewebnovel-v1.6.20.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/b3c9246/tachiyomi-en.freewebnovel-v1.6.21.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/freewebnovel/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-en.freewebnovel-v1.6.20.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/b3c9246/tachiyomi-en.freewebnovel-v1.6.21.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106020",
-        "versionName": "1.6.20",
+        "versionCode": "106021",
+        "versionName": "1.6.21",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -1258,13 +1258,13 @@
         "name": "IndraTranslations",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.indratranslations",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-en.indratranslations-v1.6.1.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/b3c9246/tachiyomi-en.indratranslations-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/indratranslations/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-en.indratranslations-v1.6.1.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/b3c9246/tachiyomi-en.indratranslations-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {

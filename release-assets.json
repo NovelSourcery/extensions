@@ -471,12 +471,12 @@
   },
   "eu.kanade.tachiyomi.novelextension.en.freewebnovel": {
     "apk": {
-      "name": "tachiyomi-en.freewebnovel-v1.6.20.apk",
-      "sha256": "a4ba586733eafc9f501e4df8e7f0cfa28201f64381c2eab57e1b5ab730ab8d3d"
+      "name": "tachiyomi-en.freewebnovel-v1.6.21.apk",
+      "sha256": "076aaf319e2b8b6dbf8d2adb7ae19054f29f32cd32d15e604b659fddbef4f9c6"
     },
     "jar": {
-      "name": "tachiyomi-en.freewebnovel-v1.6.20.jar",
-      "sha256": "ac86b048e70e61ea5182a67b9e54bed6eb5e530c096b8b53e5c461277970487a"
+      "name": "tachiyomi-en.freewebnovel-v1.6.21.jar",
+      "sha256": "dc1c8ba4549b39703d36c617be9e1147a46527140bb983848f9df3f83c6afdd9"
     }
   },
   "eu.kanade.tachiyomi.novelextension.en.fucknovelpia": {
@@ -541,12 +541,12 @@
   },
   "eu.kanade.tachiyomi.novelextension.en.indratranslations": {
     "apk": {
-      "name": "tachiyomi-en.indratranslations-v1.6.1.apk",
-      "sha256": "aa25bf564b5c43e9c2e27a79b7da77ec6557f83ac787ae66d4bc4b8ca414d096"
+      "name": "tachiyomi-en.indratranslations-v1.6.2.apk",
+      "sha256": "d0de79c515903b4d436471b017096e82d4a67a046797dd04ba1e7d402f6c1208"
     },
     "jar": {
-      "name": "tachiyomi-en.indratranslations-v1.6.1.jar",
-      "sha256": "2ee9aa4f34fbc6246eff18ba9fa1ebcc3bb89634a1014f324c548fb67b86f274"
+      "name": "tachiyomi-en.indratranslations-v1.6.2.jar",
+      "sha256": "3e5f0fbf587622acf9b6638862b8023410aaa340656c883d76aa4a930d9a4c8a"
     }
   },
   "eu.kanade.tachiyomi.novelextension.en.inkitt": {
