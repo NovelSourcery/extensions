@@ -51,22 +51,22 @@
   },
   "eu.kanade.tachiyomi.novelextension.ar.azora": {
     "apk": {
-      "name": "tachiyomi-ar.azora-v1.6.8.apk",
-      "sha256": "8d99cca54f734ee0097fe6f2ef81c2dc2581b7957e0ca4a4cc60b113f4c5efea"
+      "name": "tachiyomi-ar.azora-v1.6.9.apk",
+      "sha256": "a0bd92476af02f0a801b96c56d58c8fe2c4305c12bd29dccedbfe63606d4fbf9"
     },
     "jar": {
-      "name": "tachiyomi-ar.azora-v1.6.8.jar",
-      "sha256": "29ad237cfe95cf4802742aed3f8944f38db22afdb33927c91cdcd12438a1ebe4"
+      "name": "tachiyomi-ar.azora-v1.6.9.jar",
+      "sha256": "f748a1049ea769f9e920d27040b973d04c275ea6c7e8c76247bc9d4129f5ccaf"
     }
   },
   "eu.kanade.tachiyomi.novelextension.ar.galaxynovels": {
     "apk": {
-      "name": "tachiyomi-ar.galaxynovels-v1.6.12.apk",
-      "sha256": "29a72080d51125fc7e2bbbe3b8d59e3290b96c21ad5d8c43e69db81d07f96ee7"
+      "name": "tachiyomi-ar.galaxynovels-v1.6.13.apk",
+      "sha256": "7fd72c9c4ae5c83fdc0c72cc4869c8b1da9a428adc34b85caa010879a580e42c"
     },
     "jar": {
-      "name": "tachiyomi-ar.galaxynovels-v1.6.12.jar",
-      "sha256": "6d8a51916f4676a9c302c5776746e2ec0b4e097b7e11bbe9d611b994275eb588"
+      "name": "tachiyomi-ar.galaxynovels-v1.6.13.jar",
+      "sha256": "56b714551fa5a0276e9aefbc8e98cb0d64a2b8098113c32dd8c475a311b701f6"
     }
   },
   "eu.kanade.tachiyomi.novelextension.ar.goldenrest": {
@@ -91,12 +91,12 @@
   },
   "eu.kanade.tachiyomi.novelextension.ar.kolnovel": {
     "apk": {
-      "name": "tachiyomi-ar.kolnovel-v1.6.10.apk",
-      "sha256": "523af56ef19d18c11660764e26a270de6c949cf39adbcd482c7d3808ccfbe73c"
+      "name": "tachiyomi-ar.kolnovel-v1.6.11.apk",
+      "sha256": "e99140a1ea644538a3ba35163f7e30afabbcbce21f5fab76cd168395be12a60f"
     },
     "jar": {
-      "name": "tachiyomi-ar.kolnovel-v1.6.10.jar",
-      "sha256": "2cdf6c764baf9c301e947df15e57ba4a61863cdf3caf45d14cc488eae5387958"
+      "name": "tachiyomi-ar.kolnovel-v1.6.11.jar",
+      "sha256": "8d352738f0afa3beda77d9375c7796cbb7c6e7926e1561d787ef6ac34bf2b925"
     }
   },
   "eu.kanade.tachiyomi.novelextension.ar.markazriwayat": {
@@ -149,6 +149,16 @@
       "sha256": "06f6f1e816a48cc863f109c795e35281b78301548f3151e548857eee5b1846da"
     }
   },
+  "eu.kanade.tachiyomi.novelextension.ar.novltime": {
+    "apk": {
+      "name": "tachiyomi-ar.novltime-v1.6.1.apk",
+      "sha256": "5d372dfcf42cfd53f3e7cfe6413d170f283a9e6043e90f3a82234461d7a74632"
+    },
+    "jar": {
+      "name": "tachiyomi-ar.novltime-v1.6.1.jar",
+      "sha256": "cd7dcdea451263a8055332f75fbd757527410e936b5b94af8bc87d80c27d14d0"
+    }
+  },
   "eu.kanade.tachiyomi.novelextension.ar.realmnovel": {
     "apk": {
       "name": "tachiyomi-ar.realmnovel-v1.6.1.apk",
@@ -161,12 +171,12 @@
   },
   "eu.kanade.tachiyomi.novelextension.ar.rewayahfans": {
     "apk": {
-      "name": "tachiyomi-ar.rewayahfans-v1.6.7.apk",
-      "sha256": "8e7106c3fc37ebd67480770148f6e9c1f2e2e517a20dbc3a9eb2b987e1bf7106"
+      "name": "tachiyomi-ar.rewayahfans-v1.6.8.apk",
+      "sha256": "25d90273bc7ba3d1ed636674e260718c79114b9f8a962ff24f733ffb1cfe330d"
     },
     "jar": {
-      "name": "tachiyomi-ar.rewayahfans-v1.6.7.jar",
-      "sha256": "f73753e3498bbd45b9b95a1a3070eb3c7d7bb38f76dca0bacc1136e36e503dab"
+      "name": "tachiyomi-ar.rewayahfans-v1.6.8.jar",
+      "sha256": "ada0b860497c50eac2954c427ada0aaac3a179babd3080d60b22f46475d76f9b"
     }
   },
   "eu.kanade.tachiyomi.novelextension.ar.rewayatclub": {
@@ -181,12 +191,22 @@
   },
   "eu.kanade.tachiyomi.novelextension.ar.rewayatfans": {
     "apk": {
-      "name": "tachiyomi-ar.rewayatfans-v1.6.7.apk",
-      "sha256": "714747a9a29521dab1ee9a931f1e197d13473984ecd4eef8552075daa5f66d04"
+      "name": "tachiyomi-ar.rewayatfans-v1.6.8.apk",
+      "sha256": "d947ecb280b74d7f69ae6f654a75f6c68e0b091996d69453c10be72691dba8cd"
     },
     "jar": {
-      "name": "tachiyomi-ar.rewayatfans-v1.6.7.jar",
-      "sha256": "20b712c9e8ef89cd8d8ec670a60fef0f5dacf20e8bc36181db52b50942e834e2"
+      "name": "tachiyomi-ar.rewayatfans-v1.6.8.jar",
+      "sha256": "e7188625a6c3eb8c8d9b51bd614c146a3c9d985ae25abd1b525744c0950e729e"
+    }
+  },
+  "eu.kanade.tachiyomi.novelextension.ar.riwayatarab": {
+    "apk": {
+      "name": "tachiyomi-ar.riwayatarab-v1.6.1.apk",
+      "sha256": "f93831581af3e02bf0e3b8a974716e77f6f2ad88e5d32808f9aae0f795bc0a82"
+    },
+    "jar": {
+      "name": "tachiyomi-ar.riwayatarab-v1.6.1.jar",
+      "sha256": "e49b19ef1b8d2b8604e17791d2f73146ccf8ec21a015bb6e1d0d9d0c5d17827c"
     }
   },
   "eu.kanade.tachiyomi.novelextension.ar.riwyat": {

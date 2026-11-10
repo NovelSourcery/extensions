@@ -176,13 +176,13 @@
         "name": "Azora",
         "packageName": "eu.kanade.tachiyomi.novelextension.ar.azora",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-ar.azora-v1.6.8.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/d1cb9c7/tachiyomi-ar.azora-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/ar/azora/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-ar.azora-v1.6.8.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/d1cb9c7/tachiyomi-ar.azora-v1.6.9.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106008",
-        "versionName": "1.6.8",
+        "versionCode": "106009",
+        "versionName": "1.6.9",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -198,13 +198,13 @@
         "name": "Galaxy Novels",
         "packageName": "eu.kanade.tachiyomi.novelextension.ar.galaxynovels",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-ar.galaxynovels-v1.6.12.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/d1cb9c7/tachiyomi-ar.galaxynovels-v1.6.13.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/ar/galaxynovels/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-ar.galaxynovels-v1.6.12.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/d1cb9c7/tachiyomi-ar.galaxynovels-v1.6.13.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106012",
-        "versionName": "1.6.12",
+        "versionCode": "106013",
+        "versionName": "1.6.13",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -264,13 +264,13 @@
         "name": "Kol Novel",
         "packageName": "eu.kanade.tachiyomi.novelextension.ar.kolnovel",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-ar.kolnovel-v1.6.10.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/d1cb9c7/tachiyomi-ar.kolnovel-v1.6.11.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/ar/kolnovel/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-ar.kolnovel-v1.6.10.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/d1cb9c7/tachiyomi-ar.kolnovel-v1.6.11.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106010",
-        "versionName": "1.6.10",
+        "versionCode": "106011",
+        "versionName": "1.6.11",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -397,6 +397,28 @@
         "isNovel": true
       },
       {
+        "name": "NovelTime",
+        "packageName": "eu.kanade.tachiyomi.novelextension.ar.novltime",
+        "resources": {
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/d1cb9c7/tachiyomi-ar.novltime-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/ar/novltime/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/d1cb9c7/tachiyomi-ar.novltime-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5671794839356442001",
+            "name": "NovelTime",
+            "language": "ar",
+            "homeUrl": "https://novltime.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
         "name": "RealmNovel",
         "packageName": "eu.kanade.tachiyomi.novelextension.ar.realmnovel",
         "resources": {
@@ -422,13 +444,13 @@
         "name": "Rewayah Fans",
         "packageName": "eu.kanade.tachiyomi.novelextension.ar.rewayahfans",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-ar.rewayahfans-v1.6.7.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/d1cb9c7/tachiyomi-ar.rewayahfans-v1.6.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/ar/rewayahfans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-ar.rewayahfans-v1.6.7.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/d1cb9c7/tachiyomi-ar.rewayahfans-v1.6.8.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106007",
-        "versionName": "1.6.7",
+        "versionCode": "106008",
+        "versionName": "1.6.8",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -466,13 +488,13 @@
         "name": "Rewayat Fans",
         "packageName": "eu.kanade.tachiyomi.novelextension.ar.rewayatfans",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-ar.rewayatfans-v1.6.7.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/d1cb9c7/tachiyomi-ar.rewayatfans-v1.6.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/ar/rewayatfans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/ba92ea4/tachiyomi-ar.rewayatfans-v1.6.7.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/d1cb9c7/tachiyomi-ar.rewayatfans-v1.6.8.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106007",
-        "versionName": "1.6.7",
+        "versionCode": "106008",
+        "versionName": "1.6.8",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -480,6 +502,28 @@
             "name": "Rewayat Fans",
             "language": "ar",
             "homeUrl": "https://rewayatfans.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Riwayat Arab",
+        "packageName": "eu.kanade.tachiyomi.novelextension.ar.riwayatarab",
+        "resources": {
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/d1cb9c7/tachiyomi-ar.riwayatarab-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/ar/riwayatarab/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/d1cb9c7/tachiyomi-ar.riwayatarab-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6447958333469390395",
+            "name": "Riwayat Arab",
+            "language": "ar",
+            "homeUrl": "https://riwayatarab.com"
           }
         ],
         "isNovel": true
