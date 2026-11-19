@@ -2451,6 +2451,28 @@
         "isNovel": true
       },
       {
+        "name": "NyX Translation",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.nyxtranslation",
+        "resources": {
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/803ed32/tachiyomi-en.nyxtranslation-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/nyxtranslation/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/803ed32/tachiyomi-en.nyxtranslation-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6563978057608228780",
+            "name": "NyX Translation",
+            "language": "en",
+            "homeUrl": "https://nyx-translation.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
         "name": "OpenQuill",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.openquill",
         "resources": {
