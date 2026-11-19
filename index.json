@@ -581,6 +581,28 @@
         "isNovel": true
       },
       {
+        "name": "Asian Hobbyist",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.asianhobbyist",
+        "resources": {
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/11d91e0/tachiyomi-en.asianhobbyist-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/asianhobbyist/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/11d91e0/tachiyomi-en.asianhobbyist-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "911941991717251206",
+            "name": "Asian Hobbyist",
+            "language": "en",
+            "homeUrl": "https://www.asianhobbyist.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
         "name": "AsianNovel",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.asiannovel",
         "resources": {
@@ -730,6 +752,28 @@
             "name": "Byte Translations",
             "language": "en",
             "homeUrl": "https://bytetranslations.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Cherry Mist Cafe",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.cherrymistcafe",
+        "resources": {
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/11d91e0/tachiyomi-en.cherrymistcafe-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/cherrymistcafe/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/11d91e0/tachiyomi-en.cherrymistcafe-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "9101003664358958195",
+            "name": "Cherry Mist Cafe",
+            "language": "en",
+            "homeUrl": "https://cherrymist.cafe"
           }
         ],
         "isNovel": true
@@ -972,6 +1016,28 @@
             "name": "EtudeTranslations",
             "language": "en",
             "homeUrl": "https://etudetranslations.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Experimental Translations",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.experimentaltranslations",
+        "resources": {
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/11d91e0/tachiyomi-en.experimentaltranslations-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/experimentaltranslations/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/11d91e0/tachiyomi-en.experimentaltranslations-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2172306949813946535",
+            "name": "Experimental Translations",
+            "language": "en",
+            "homeUrl": "https://experimentaltranslations.com"
           }
         ],
         "isNovel": true
@@ -1703,6 +1769,28 @@
         "isNovel": true
       },
       {
+        "name": "Lupus-sensei Translations",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.lupussensei",
+        "resources": {
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/11d91e0/tachiyomi-en.lupussensei-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/lupussensei/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/11d91e0/tachiyomi-en.lupussensei-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7149575982349975551",
+            "name": "Lupus-sensei Translations",
+            "language": "en",
+            "homeUrl": "https://www.lupus-sensei.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
         "name": "MtlBooks",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.mtlbooks",
         "resources": {
@@ -1896,6 +1984,28 @@
             "name": "Novel-Bin (net)",
             "language": "en",
             "homeUrl": "https://novel-bin.net"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Novel Bin (xyz)",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.novelbinxyz",
+        "resources": {
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/11d91e0/tachiyomi-en.novelbinxyz-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/novelbinxyz/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/11d91e0/tachiyomi-en.novelbinxyz-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8597674613122170033",
+            "name": "Novel Bin (xyz)",
+            "language": "en",
+            "homeUrl": "https://novelbin.xyz"
           }
         ],
         "isNovel": true
@@ -2556,6 +2666,28 @@
             "name": "ReadHive",
             "language": "en",
             "homeUrl": "https://readhive.org"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "ReadingPia",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.readingpia",
+        "resources": {
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/11d91e0/tachiyomi-en.readingpia-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/readingpia/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/11d91e0/tachiyomi-en.readingpia-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8031930915801866102",
+            "name": "ReadingPia",
+            "language": "en",
+            "homeUrl": "https://www.readingpia.me"
           }
         ],
         "isNovel": true
