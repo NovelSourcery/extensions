@@ -2825,6 +2825,28 @@
         "isNovel": true
       },
       {
+        "name": "RPGNovels",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.rpgnovels",
+        "resources": {
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/93e9581/tachiyomi-en.rpgnovels-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/rpgnovels/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/93e9581/tachiyomi-en.rpgnovels-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8915700963921723966",
+            "name": "RPGNovels",
+            "language": "en",
+            "homeUrl": "https://rpgnovels.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
         "name": "Sainokan TLS",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.sainokantls",
         "resources": {
