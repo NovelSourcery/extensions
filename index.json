@@ -34,9 +34,9 @@
         "name": "LunarX Novels",
         "packageName": "eu.kanade.tachiyomi.novelextension.all.lunarxnovels",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-all.lunarxnovels-v1.6.2.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-all.lunarxnovels-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/all/lunarxnovels/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-all.lunarxnovels-v1.6.2.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-all.lunarxnovels-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -628,9 +628,9 @@
         "name": "Atsumaru Novels",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.atsumarunovels",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.atsumarunovels-v1.6.2.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.atsumarunovels-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/atsumarunovels/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.atsumarunovels-v1.6.2.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.atsumarunovels-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -672,9 +672,9 @@
         "name": "BotiTranslation",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.botitranslation",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.botitranslation-v1.6.2.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.botitranslation-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/botitranslation/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.botitranslation-v1.6.2.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.botitranslation-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -782,9 +782,9 @@
         "name": "Chikari",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.chikari",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.chikari-v1.6.3.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.chikari-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/chikari/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.chikari-v1.6.3.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.chikari-v1.6.3.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106003",
@@ -826,9 +826,9 @@
         "name": "Crimson Scrolls",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.crimsonscrolls",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.crimsonscrolls-v1.6.8.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.crimsonscrolls-v1.6.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/crimsonscrolls/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.crimsonscrolls-v1.6.8.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.crimsonscrolls-v1.6.8.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106008",
@@ -1178,9 +1178,9 @@
         "name": "FreeGoodNovel",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.freegoodnovel",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.freegoodnovel-v1.6.2.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.freegoodnovel-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/freegoodnovel/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.freegoodnovel-v1.6.2.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.freegoodnovel-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -1266,9 +1266,9 @@
         "name": "Greenz",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.greenz",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.greenz-v1.6.2.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.greenz-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/greenz/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.greenz-v1.6.2.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.greenz-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -1398,9 +1398,9 @@
         "name": "JadeScrolls",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.jadescrolls",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.jadescrolls-v1.6.2.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.jadescrolls-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/jadescrolls/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.jadescrolls-v1.6.2.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.jadescrolls-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -1442,9 +1442,9 @@
         "name": "KDT Novels",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.kdtnovels",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.kdtnovels-v1.6.6.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.kdtnovels-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/kdtnovels/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.kdtnovels-v1.6.6.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.kdtnovels-v1.6.6.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106006",
@@ -1508,9 +1508,9 @@
         "name": "KuuPress",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.kuupress",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.kuupress-v1.6.12.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.kuupress-v1.6.12.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/kuupress/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.kuupress-v1.6.12.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.kuupress-v1.6.12.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106012",
@@ -1618,9 +1618,9 @@
         "name": "LightNovel.to",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.lightnovelto",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.lightnovelto-v1.6.2.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.lightnovelto-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/lightnovelto/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.lightnovelto-v1.6.2.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.lightnovelto-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -1662,9 +1662,9 @@
         "name": "LnCrawler",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.lncrawler",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.lncrawler-v1.6.9.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.lncrawler-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.lncrawler-v1.6.9.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.lncrawler-v1.6.9.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106009",
@@ -1791,6 +1791,28 @@
         "isNovel": true
       },
       {
+        "name": "Machine Sliced Bread",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.machineslicedbread",
+        "resources": {
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.machineslicedbread-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/machineslicedbread/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.machineslicedbread-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "3331911726222583228",
+            "name": "Machine Sliced Bread",
+            "language": "en",
+            "homeUrl": "https://machineslicedbread.xyz"
+          }
+        ],
+        "isNovel": true
+      },
+      {
         "name": "MtlBooks",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.mtlbooks",
         "resources": {
@@ -1860,9 +1882,9 @@
         "name": "MZ Novels",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.mznovels",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.mznovels-v1.6.10.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.mznovels-v1.6.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/mznovels/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.mznovels-v1.6.10.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.mznovels-v1.6.10.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106010",
@@ -1882,9 +1904,9 @@
         "name": "NoBadNovel",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.nobadnovel",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.nobadnovel-v1.6.4.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.nobadnovel-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/nobadnovel/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.nobadnovel-v1.6.4.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.nobadnovel-v1.6.4.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106004",
@@ -1948,14 +1970,14 @@
         "name": "Novel-Bin (com)",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.novelbincom",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.novelbincom-v1.6.16.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.novelbincom-v1.6.17.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/novelbincom/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.novelbincom-v1.6.16.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.novelbincom-v1.6.17.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106016",
-        "versionName": "1.6.16",
-        "contentWarning": "CONTENT_WARNING_SAFE",
+        "versionCode": "106017",
+        "versionName": "1.6.17",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "7807247151843706108",
@@ -1970,14 +1992,14 @@
         "name": "Novel-Bin (net)",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.novelbinnet",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.novelbinnet-v1.6.17.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.novelbinnet-v1.6.18.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.novelbinnet-v1.6.17.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.novelbinnet-v1.6.18.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106017",
-        "versionName": "1.6.17",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "versionCode": "106018",
+        "versionName": "1.6.18",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "6794126421934659090",
@@ -2344,9 +2366,9 @@
         "name": "Novel Ping",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.novelping",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.novelping-v1.6.11.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.novelping-v1.6.11.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/novelping/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.novelping-v1.6.11.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.novelping-v1.6.11.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106011",
@@ -2498,9 +2520,9 @@
         "name": "OpenQuill",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.openquill",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.openquill-v1.6.2.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.openquill-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/openquill/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.openquill-v1.6.2.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.openquill-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -2586,9 +2608,9 @@
         "name": "PenguinSquad",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.penguinsquad",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.penguinsquad-v1.6.8.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.penguinsquad-v1.6.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.penguinsquad-v1.6.8.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.penguinsquad-v1.6.8.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106008",
@@ -2894,9 +2916,9 @@
         "name": "Sainokan TLS",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.sainokantls",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.sainokantls-v1.6.2.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.sainokantls-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/sainokantls/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.sainokantls-v1.6.2.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.sainokantls-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -2916,9 +2938,9 @@
         "name": "Scribble Hub",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.scribblehub",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.scribblehub-v1.6.10.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.scribblehub-v1.6.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/scribblehub/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.scribblehub-v1.6.10.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.scribblehub-v1.6.10.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106010",
@@ -3400,9 +3422,9 @@
         "name": "XNovel",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.xnovel",
         "resources": {
-          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.xnovel-v1.6.2.apk",
+          "apkUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.xnovel-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/xnovel/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/08ce10f/tachiyomi-en.xnovel-v1.6.2.jar"
+          "jarUrl": "https://github.com/NovelSourcery/extensions/releases/download/8127392/tachiyomi-en.xnovel-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
